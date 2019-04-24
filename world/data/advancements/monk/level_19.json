@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "monk:monk_level",
+      "nbt": "{\"icon\":\"monk:icon/wither\"}"
+    },
+    "title": {
+      "translate": "monk.advancements.level",
+      "with": [
+        "19"
+      ]
+    },
+    "description": {
+      "translate": "monk.advancements.requirement.kill_entity_type",
+      "with": [
+        "1",
+        "Wither"
+      ]
+    },
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "monk:level_18",
+  "criteria": {
+    "level": {
+      "trigger": "monk:levelup",
+      "conditions": {
+        "level": 19
+      }
+    }
+  }
+}

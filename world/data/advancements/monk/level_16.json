@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "monk:monk_level",
+      "nbt": "{\"icon\":\"monk:icon/ocelot\"}"
+    },
+    "title": {
+      "translate": "monk.advancements.level",
+      "with": [
+        "16"
+      ]
+    },
+    "description": {
+      "translate": "monk.advancements.requirement.fall",
+      "with": [
+        "40"
+      ]
+    },
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "monk:level_15",
+  "criteria": {
+    "level": {
+      "trigger": "monk:levelup",
+      "conditions": {
+        "level": 16
+      }
+    }
+  }
+}

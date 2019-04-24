@@ -1,0 +1,1055 @@
+[00:00:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: FrostShot11 moved too quickly! -1.037392052178916,-11.19886200217772,-1.125288895057281
+[00:00:41] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:00:41] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:00:41] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:01:26] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:01:26] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:01:26] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:02:11] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:02:11] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:02:11] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:02:56] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:02:56] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:02:56] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:03:41] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:03:41] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:03:41] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:04:26] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:04:26] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:04:26] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:05:11] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:05:11] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:05:11] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:05:56] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:05:56] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:05:56] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:06:41] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:06:41] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:06:41] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:07:26] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:07:26] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:07:26] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:08:11] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:08:11] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:08:11] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:08:56] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:08:56] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:08:56] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:09:41] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:09:41] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:09:41] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:09:58] [Server thread/INFO] [FML]: SRV ERROR: (mayanmining_A0 at 182/65/303/1/0/2021580037/Tunich In-ti'a'al/net.minecraft.world.WorldServer@80373ce): No TileEntitySign at: 177/67/304
+[00:10:03] [Server thread/INFO] [FML]: SRV ERROR: (mayanmining_A0 at 182/65/303/1/0/2021580037/Tunich In-ti'a'al/net.minecraft.world.WorldServer@80373ce): No TileEntitySign at: 177/67/304
+[00:10:08] [Server thread/INFO] [FML]: SRV ERROR: (mayanmining_A0 at 182/65/303/1/0/2021580037/Tunich In-ti'a'al/net.minecraft.world.WorldServer@80373ce): No TileEntitySign at: 177/67/304
+[00:10:13] [Server thread/INFO] [FML]: SRV ERROR: (mayanmining_A0 at 182/65/303/1/0/2021580037/Tunich In-ti'a'al/net.minecraft.world.WorldServer@80373ce): No TileEntitySign at: 177/67/304
+[00:10:18] [Server thread/INFO] [FML]: SRV ERROR: (mayanmining_A0 at 182/65/303/1/0/2021580037/Tunich In-ti'a'al/net.minecraft.world.WorldServer@80373ce): No TileEntitySign at: 177/67/304
+[00:10:23] [Netty Server IO #10/ERROR] [FML]: NetworkDispatcher exception
+java.io.IOException: An existing connection was forcibly closed by the remote host
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_201]
+	at sun.nio.ch.SocketDispatcher.read(Unknown Source) ~[?:1.8.0_201]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(Unknown Source) ~[?:1.8.0_201]
+	at sun.nio.ch.IOUtil.read(Unknown Source) ~[?:1.8.0_201]
+	at sun.nio.ch.SocketChannelImpl.read(Unknown Source) ~[?:1.8.0_201]
+	at io.netty.buffer.PooledUnsafeDirectByteBuf.setBytes(PooledUnsafeDirectByteBuf.java:288) ~[PooledUnsafeDirectByteBuf.class:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1100) ~[AbstractByteBuf.class:?]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:372) ~[NioSocketChannel.class:?]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:123) [AbstractNioByteChannel$NioByteUnsafe.class:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:624) [NioEventLoop.class:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:559) [NioEventLoop.class:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:476) [NioEventLoop.class:?]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438) [NioEventLoop.class:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858) [SingleThreadEventExecutor$5.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_201]
+[00:10:23] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: FrostShot11 lost connection: Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host
+[00:10:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FrostShot11 left the game
+[00:10:26] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:10:26] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:11:11] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:11:11] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:11:56] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:11:56] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:12:41] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:12:41] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:13:11] [User Authenticator #9/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player FrostShot11 is aa7bd39f-a18e-486b-9bf5-79ee2a6e7124
+[00:13:11] [Netty Server IO #6/INFO] [FML]: Client protocol version 2
+[00:13:11] [Netty Server IO #6/INFO] [FML]: Client attempting to join with 122 mods : buildcraftlib@7.99.23,p455w0rdslib@2.0.36,aov@0.11.5,rftools@7.61,buildcraftenergy@7.99.23,aether@0.2.0,doggytalents@1.14.2.438,cofhcore@4.6.2,projecte@1.12.2-PE1.4.0,thermalinnovation@0.3.2,strawgolem@1.3,immersivecables@1.3.2,ctm@MC1.12.2-0.3.3.22,albedo@0.1.3,neid@1.5.4.4,ae2stuff@0.7.0.4,justthetips@1.12-1.0.1.1,bookshelf@2.3.577,uteamcore@2.2.4.94,secretroomsmod@5.6.4,cofhworld@1.3.0,darkutils@1.8.223,betterbuilderswands@0.11.1,waila@1.8.26,chickens@6.0.4,redstonearsenal@2.6.2,guideapi@1.12-2.1.8-63,intwheel@1.2.7,mcjtylib_ng@3.1.1,mcmultipart@2.5.3,refinedstorage@1.6.14,morph@7.1.3,usefulbackpacks@1.3.1.13,redstoneflux@2.1.0,buildcraftsilicon@7.99.23,battletowers@1.6.4,aromabackup@2.1.1.4,botania@r1.10-361,llor@1.1.6-mc1.12.2,actuallyadditions@1.12.2-r146,ic2@2.8.109-ex112,patchouli@1.0-18,buildcraftbuilders@7.99.23,gamestages@2.0.112,morechickens@3.1.0,buildcraftfactory@7.99.23,oreexcavation@1.4.137,hatchery@2.2.1,sanlib@1.5.1,FML@8.0.99.99,thermalexpansion@5.5.3,rftoolsdim@5.64,aromabackuprecovery@2.1.1.4,buildcraftcompat@7.99.23,cfm@6.2.0,moreoverlays@1.14,bigreactors@1.12.2-0.4.5.65,albedocore@0.1,badwithernocookiereloaded@1.12.2-3.3.16,codechickenlib@3.2.2.353,fastleafdecay@v14,scalinghealth@1.3.34,buildcraftcore@7.99.23,aroma1997sdimension@2.0.0.2,kiwi@0.5.2.29,tesla@1.0.63,snad@1.12.1-1.7.09.16a,jei@4.15.0.268,buildcrafttransport@7.99.23,thermalcultivation@0.3.2,bibliocraft@2.4.5,cosmeticbeds@1.12.2-1.0.2.2,thermalfoundation@2.6.2,bdlib@1.14.3.12,flextape@1.0,mcp@9.42,diethopper@1.1,sanplayermodel@1.1.1,journeymap@1.12.2-5.5.4,appliedenergistics2@rv6-stable-6,nuclearcraft@2.15,aroma1997core@2.0.0.2,chameleon@1.12-4.1.3,champions@1.12.2-1.0.8,inventorytweaks@1.63+release.109.220f184,harvestcraft@1.12.2zb,millenaire@Millénaire 7.1.4,orbis-lib@0.2.0,ichunutil@7.2.1,forge@14.23.5.2808,bloodmagic@1.12.2-2.4.0-102,phosphor-lighting@1.12.2-0.1.6,buildcraftrobotics@7.99.23,ironchest@1.12.2-7.0.59.842,craftingtweaks@8.1.9,zerocore@1.12.2-0.1.2.8,minecraft@1.12.2,tconstruct@1.12.2-2.12.0.135,claysoldiers@3.0.0-beta.2,theoneprobe@1.4.28,mousetweaks@2.10,immersiveengineering@0.12-89,thermaldynamics@2.5.4,silentlib@3.0.13,baubles@1.5.2,tammodized@0.15.6,minions@2.0.3,ding@1.0.1,srm-hooks@1.12.2-1.0.0,quark@r1.5-146,mantle@1.12-1.3.3.49,gravestone@1.10.1,fastbench@1.6.1,autoreglib@1.3-26,storagedrawers@1.12-5.3.5,railcraft@12.0.0,cuisine@0.5.0-build838,chisel@MC1.12.2-0.2.1.35,monk@1.4,parry@1.0,chiselsandbits@14.31,forestry@5.8.1.322
+[00:13:11] [Netty Server IO #6/INFO] [FML]: Attempting connection with missing mods [bedpatch] at CLIENT
+[00:13:11] [Netty Server IO #6/INFO] [journeymap]: CLIENT
+[00:13:11] [Netty Server IO #6/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[00:13:18] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:13:18] [Server thread/INFO] [gamestages]: Loaded 0 stages for FrostShot11.
+[00:13:18] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: FrostShot11[/98.118.154.215:64628] logged in with entity id 1129444 at (189.49653371965505, 72.75594077023055, 291.96901784112697)
+[00:13:18] [Server thread/INFO] [mcjty.lib.varia.Logging]: SMP: Sync dimensions to client
+[00:13:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FrostShot11 joined the game
+[00:13:18] [Server thread/INFO] [STDOUT]: [atomicstryker.minions.common.MinionsCore:getMinionMap:336]: Minions: minionMapLock was hanging
+[00:13:18] [Server thread/INFO] [STDOUT]: [atomicstryker.minions.common.MinionsCore:prepareMinionHolder:351]: New Minionlist prepared for user FrostShot11
+[00:13:18] [Server thread/INFO] [journeymap]: FrostShot11 joining dimension 0
+[00:13:18] [Server thread/INFO] [Waila]: Player EntityPlayerMP['FrostShot11'/1129444, l='world', x=189.50, y=72.76, z=291.97] connected. Sending ping
+[00:13:18] [Server thread/INFO] [gamestages]: Syncing 0 stages for FrostShot11.
+[00:13:18] [Server thread/INFO] [mcjty.lib.varia.Logging]: SMP: Player logged in: Sync diminfo to clients
+[00:13:18] [Server thread/INFO] [mcjty.lib.varia.Logging]: Send dimlet rules to the client
+[00:13:18] [Server thread/INFO] [mcjty.lib.varia.Logging]: Rules packet size: 5779 of 8192
+[00:13:18] [Server thread/INFO] [Actually Additions]: Sending Player Data to player FrostShot11 with UUID aa7bd39f-a18e-486b-9bf5-79ee2a6e7124.
+[00:13:18] [Server thread/INFO] [journeymap]: Sending log in packet.
+[00:13:19] [Server thread/INFO] [FML]: SRV ERROR: (mayanmining_A0 at 182/65/303/1/0/2021580037/Tunich In-ti'a'al/net.minecraft.world.WorldServer@80373ce): No TileEntitySign at: 177/67/304
+[00:13:23] [Server thread/INFO] [FML]: SRV ERROR: (mayanmining_A0 at 182/65/303/1/0/2021580037/Tunich In-ti'a'al/net.minecraft.world.WorldServer@80373ce): No TileEntitySign at: 177/67/304
+[00:13:26] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:13:26] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:13:26] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:13:28] [Server thread/INFO] [FML]: SRV ERROR: (mayanmining_A0 at 182/65/303/1/0/2021580037/Tunich In-ti'a'al/net.minecraft.world.WorldServer@80373ce): No TileEntitySign at: 177/67/304
+[00:13:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FrostShot11 has made the advancement [Take Aim]
+[00:14:11] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:14:11] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:14:11] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:14:56] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:14:56] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:14:56] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:15:41] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:15:41] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:15:41] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:16:26] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:16:26] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:16:26] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:17:11] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:17:11] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:17:11] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:17:56] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:17:56] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:17:56] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:18:41] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:18:41] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:18:41] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:19:26] [Aromabackup-Backup/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AromaBackup] Starting Backup. The server may lag for a bit!
+[00:19:26] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:19:26] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:19:26] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:19:28] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:19:28] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (AETHER): All chunks are saved
+[00:19:28] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (DIM2): All chunks are saved
+[00:19:44] [Aromabackup-Backup/INFO] [AromaBackup]: Deleted backup Backup--world--2019-04-23--21-19.zip.
+[00:19:44] [Aromabackup-Backup/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AromaBackup] Server Backup done!
+[00:20:11] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:20:11] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:20:11] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:20:47] [Server thread/INFO] [Scaling Health]: Blight Zombie was killed by frostcrackle
+[00:20:56] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:20:56] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:20:56] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:21:41] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:21:41] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:21:41] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:22:26] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:22:26] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:22:26] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:22:28] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@a6f0fa)
+[00:22:28] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.WorldGenHandler:loadPosFile:357]: Battletower Positions reloaded. Lines 235, entries 222
+[00:22:28] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.WorldGenHandler:loadPosFile:357]: Battletower Positions reloaded. Lines 235, entries 222
+[00:22:30] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:23:11] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:23:11] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:23:11] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:23:56] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:23:56] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:23:56] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:24:41] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:24:41] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:24:41] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:25:26] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:25:26] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:25:26] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:26:11] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:26:11] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:26:11] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:26:56] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:26:56] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:26:56] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:27:41] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:27:41] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:27:41] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:28:22] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: frostcrackle moved too quickly! 2.656355155279911,0.0,10.110168776010084
+[00:28:26] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:28:26] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:28:26] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:28:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: frostcrackle moved too quickly! 2.656441666132075,0.0,10.110169702956114
+[00:29:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: frostcrackle moved too quickly! 2.6564421215550738,0.0,10.11017143625395
+[00:29:09] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@a6f0fa)
+[00:29:09] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.WorldGenHandler:loadPosFile:357]: Battletower Positions reloaded. Lines 235, entries 222
+[00:29:09] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.WorldGenHandler:loadPosFile:357]: Battletower Positions reloaded. Lines 235, entries 222
+[00:29:10] [Server thread/INFO] [STDOUT]: [atomicstryker.minions.common.MinionsCore:getMinionMap:336]: Minions: minionMapLock was hanging
+[00:29:10] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:29:11] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.WorldGenHandler:loadPosFile:357]: Battletower Positions reloaded. Lines 235, entries 222
+[00:29:12] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:29:12] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:29:12] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:29:57] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:29:57] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:29:57] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:30:00] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [1, 113] in dimension 0 (overworld) while populating chunk [2, 114], causing cascading worldgen lag.
+[00:30:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:30:00] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:506]: Battle Tower type SmoothStone spawned at [ 32 | 1824 ], underground: false
+[00:30:06] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[00:30:07] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[00:30:09] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[00:30:12] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2676ms behind, skipping 53 tick(s)
+[00:30:42] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:30:42] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:30:42] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:31:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: frostcrackle moved too quickly! -4.837731323479019,0.0,-9.264705884456589
+[00:31:27] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:31:27] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:31:27] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:31:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: FrostShot11 moved too quickly! 9.965473889866189,0.0,-4.366246474228319
+[00:32:12] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:32:12] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:32:12] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:32:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: frostcrackle moved too quickly! -0.8729008396971949,0.0,-10.416827985580312
+[00:32:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: frostcrackle moved too quickly! 0.3171051167017822,-10.984725200616523,-1.690814315888133
+[00:32:57] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:32:57] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:32:57] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:33:42] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:33:42] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:33:42] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:34:27] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:34:27] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:34:27] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:35:12] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:35:12] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:35:12] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:35:57] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:35:57] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:35:57] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:36:00] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@a6f0fa)
+[00:36:00] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.WorldGenHandler:loadPosFile:357]: Battletower Positions reloaded. Lines 235, entries 223
+[00:36:00] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.WorldGenHandler:loadPosFile:357]: Battletower Positions reloaded. Lines 235, entries 223
+[00:36:01] [Server thread/INFO] [STDOUT]: [atomicstryker.minions.common.MinionsCore:getMinionMap:336]: Minions: minionMapLock was hanging
+[00:36:01] [Server thread/INFO] [STDOUT]: [atomicstryker.minions.common.MinionsCore:prepareMinionHolder:351]: New Minionlist prepared for user FrostShot11
+[00:36:01] [Server thread/INFO] [journeymap]: FrostShot11 joining dimension -1
+[00:36:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: frostcrackle moved wrongly!
+[00:36:42] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:36:42] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:36:42] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:37:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FrostShot11 has made the advancement [Exotic Miner!]
+[00:37:27] [Server thread/INFO] [STDOUT]: [atomicstryker.minions.common.MinionsCore:prepareMinionHolder:351]: New Minionlist prepared for user BrokenShot101
+[00:37:27] [Server thread/INFO] [journeymap]: BrokenShot101 joining dimension -1
+[00:37:27] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:37:27] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:37:27] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:38:11] [Server thread/INFO] [STDOUT]: [atomicstryker.minions.common.MinionsCore:prepareMinionHolder:351]: New Minionlist prepared for user frostcrackle
+[00:38:11] [Server thread/INFO] [journeymap]: frostcrackle joining dimension -1
+[00:38:13] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:38:13] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:38:13] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:38:57] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:38:57] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:38:57] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:38:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: FrostShot11 moved too quickly! -10.821314216400253,0.0,0.27812132585356153
+[00:39:42] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:39:42] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:39:42] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:40:27] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:40:27] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:40:27] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:41:12] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:41:12] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:41:12] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:41:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: frostcrackle moved too quickly! -10.45008139686604,0.0,1.5507604782802105
+[00:41:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: FrostShot11 moved wrongly!
+[00:41:57] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:41:57] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:41:57] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:42:42] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:42:42] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:42:42] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:43:27] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:43:27] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:43:27] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:44:12] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:44:12] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:44:12] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:44:39] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a heart container (player BrokenShot101)
+[00:44:57] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:44:57] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:44:57] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:45:22] [Server thread/INFO] [Scaling Health]: Blight Zombie Pigman was killed by frostcrackle
+[00:45:42] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:45:42] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:45:42] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:46:22] [Server thread/INFO] [Scaling Health]: Blight Zombie Pigman was killed by FrostShot11
+[00:46:27] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:46:27] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:46:27] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:46:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [frostcrackle: Teleported frostcrackle to BrokenShot101]
+[00:47:12] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:47:12] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:47:12] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:47:57] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:47:57] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:47:57] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:48:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: FrostShot11 moved wrongly!
+[00:48:42] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:48:42] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:48:42] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:49:27] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:49:27] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:49:27] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:50:12] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:50:12] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:50:12] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:50:57] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:50:57] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:50:57] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:51:42] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:51:42] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:51:42] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:52:06] [Server thread/WARN] [FML]: Chickens loaded a new chunk [-42, 15] in dimension -1 (the_nether) while populating chunk [-41, 15], causing cascading worldgen lag.
+[00:52:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:52:27] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:52:27] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:52:27] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:52:39] [Server thread/INFO] [journeymap]: FrostShot11 joining dimension 0
+[00:52:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: FrostShot11 moved too quickly! -142.0,-7.0,202.19999998807907
+[00:52:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: FrostShot11 moved too quickly! -9.367576517483883,3.3750001341104507,2.862679166317889
+[00:53:12] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:53:12] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:53:12] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:53:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: FrostShot11 moved wrongly!
+[00:53:57] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:53:57] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:53:57] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:54:42] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:54:42] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:54:42] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:54:57] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a heart container (player BrokenShot101)
+[00:55:27] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:55:27] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:55:27] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:55:36] [Server thread/INFO] [journeymap]: frostcrackle joining dimension 0
+[00:55:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: FrostShot11 moved too quickly! -9.75252683822282,1.0,2.58870288123984
+[00:55:39] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3357ms behind, skipping 67 tick(s)
+[00:55:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BrokenShot101 moved wrongly!
+[00:56:13] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:56:14] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:56:14] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:56:54] [Server thread/INFO] [journeymap]: BrokenShot101 joining dimension 0
+[00:56:55] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:56:58] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:56:58] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:56:58] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:57:43] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:57:43] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:57:43] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:58:28] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:58:28] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:58:28] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:59:13] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:59:13] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:59:13] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[00:59:58] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[00:59:58] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[00:59:58] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:00:43] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:00:43] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:00:43] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:01:28] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:01:28] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:01:28] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:02:13] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:02:13] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:02:13] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:02:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [frostcrackle: Kicked BrokenShot101 from the game]
+[01:02:21] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: BrokenShot101 lost connection: Kicked by an operator.
+[01:02:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: BrokenShot101 left the game
+[01:02:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: FrostShot11 moved too quickly! 0.5753740222417036,-10.188594643186804,-1.6081320344505912
+[01:02:58] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:02:58] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:03:43] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:03:43] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:04:28] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:04:28] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:05:13] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:05:13] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:05:58] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:05:58] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:06:43] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:06:43] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:06:57] [User Authenticator #10/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player BrokenShot101 is b7fe7cff-6440-4bcb-bea5-ec382acb3b24
+[01:06:57] [Netty Server IO #8/INFO] [FML]: Client protocol version 2
+[01:06:57] [Netty Server IO #8/INFO] [FML]: Client attempting to join with 122 mods : buildcraftlib@7.99.23,p455w0rdslib@2.0.36,aov@0.11.5,rftools@7.61,buildcraftenergy@7.99.23,aether@0.2.0,doggytalents@1.14.2.438,cofhcore@4.6.2,projecte@1.12.2-PE1.4.0,thermalinnovation@0.3.2,strawgolem@1.3,immersivecables@1.3.2,ctm@MC1.12.2-0.3.3.22,albedo@0.1.3,neid@1.5.4.4,ae2stuff@0.7.0.4,justthetips@1.12-1.0.1.1,bookshelf@2.3.577,uteamcore@2.2.4.94,secretroomsmod@5.6.4,cofhworld@1.3.0,darkutils@1.8.223,betterbuilderswands@0.11.1,waila@1.8.26,chickens@6.0.4,redstonearsenal@2.6.2,guideapi@1.12-2.1.8-63,intwheel@1.2.7,mcjtylib_ng@3.1.1,mcmultipart@2.5.3,refinedstorage@1.6.14,morph@7.1.3,usefulbackpacks@1.3.1.13,redstoneflux@2.1.0,buildcraftsilicon@7.99.23,battletowers@1.6.4,aromabackup@2.1.1.4,botania@r1.10-361,llor@1.1.6-mc1.12.2,actuallyadditions@1.12.2-r146,ic2@2.8.109-ex112,patchouli@1.0-18,buildcraftbuilders@7.99.23,gamestages@2.0.112,morechickens@3.1.0,buildcraftfactory@7.99.23,oreexcavation@1.4.137,hatchery@2.2.1,sanlib@1.5.1,FML@8.0.99.99,thermalexpansion@5.5.3,rftoolsdim@5.64,aromabackuprecovery@2.1.1.4,buildcraftcompat@7.99.23,cfm@6.2.0,moreoverlays@1.14,bigreactors@1.12.2-0.4.5.65,albedocore@0.1,badwithernocookiereloaded@1.12.2-3.3.16,codechickenlib@3.2.2.353,fastleafdecay@v14,scalinghealth@1.3.34,buildcraftcore@7.99.23,aroma1997sdimension@2.0.0.2,kiwi@0.5.2.29,tesla@1.0.63,snad@1.12.1-1.7.09.16a,jei@4.15.0.268,buildcrafttransport@7.99.23,thermalcultivation@0.3.2,bibliocraft@2.4.5,cosmeticbeds@1.12.2-1.0.2.2,thermalfoundation@2.6.2,bdlib@1.14.3.12,flextape@1.0,mcp@9.42,diethopper@1.1,sanplayermodel@1.1.1,journeymap@1.12.2-5.5.4,appliedenergistics2@rv6-stable-6,nuclearcraft@2.15,aroma1997core@2.0.0.2,chameleon@1.12-4.1.3,champions@1.12.2-1.0.8,inventorytweaks@1.63+release.109.220f184,harvestcraft@1.12.2zb,millenaire@Millénaire 7.1.4,orbis-lib@0.2.0,ichunutil@7.2.1,forge@14.23.5.2820,bloodmagic@1.12.2-2.4.0-102,phosphor-lighting@1.12.2-0.1.6,buildcraftrobotics@7.99.23,ironchest@1.12.2-7.0.59.842,craftingtweaks@8.1.9,zerocore@1.12.2-0.1.2.8,minecraft@1.12.2,tconstruct@1.12.2-2.12.0.135,claysoldiers@3.0.0-beta.2,theoneprobe@1.4.28,mousetweaks@2.10,immersiveengineering@0.12-89,thermaldynamics@2.5.4,silentlib@3.0.13,baubles@1.5.2,tammodized@0.15.6,minions@2.0.3,ding@1.0.1,srm-hooks@1.12.2-1.0.0,quark@r1.5-146,mantle@1.12-1.3.3.49,gravestone@1.10.1,fastbench@1.6.1,autoreglib@1.3-26,storagedrawers@1.12-5.3.5,railcraft@12.0.0,cuisine@0.5.0-build838,chisel@MC1.12.2-0.2.1.35,monk@1.4,parry@1.0,chiselsandbits@14.31,forestry@5.8.1.322
+[01:06:57] [Netty Server IO #8/INFO] [FML]: Attempting connection with missing mods [bedpatch] at CLIENT
+[01:06:57] [Netty Server IO #8/INFO] [journeymap]: CLIENT
+[01:06:57] [Netty Server IO #8/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[01:06:59] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.WorldGenHandler:loadPosFile:357]: Battletower Positions reloaded. Lines 236, entries 223
+[01:07:04] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[01:07:07] [Server thread/WARN] [FML]: Quark loaded a new chunk [39, 1] in dimension 0 (overworld) while populating chunk [39, 2], causing cascading worldgen lag.
+[01:07:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:07:11] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [40, -7] in dimension 0 (overworld) while populating chunk [41, -7], causing cascading worldgen lag.
+[01:07:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:07:11] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [40, -8] in dimension 0 (overworld) while populating chunk [41, -7], causing cascading worldgen lag.
+[01:07:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:07:11] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:506]: Battle Tower type CobbleStoneMossy spawned at [ 656 | -112 ], underground: false
+[01:07:11] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:07:11] [Server thread/INFO] [gamestages]: Loaded 0 stages for BrokenShot101.
+[01:07:11] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: BrokenShot101[/128.151.95.153:51111] logged in with entity id 1372147 at (-152.5, 63.0, 226.5)
+[01:07:11] [Server thread/INFO] [mcjty.lib.varia.Logging]: SMP: Sync dimensions to client
+[01:07:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: BrokenShot101 joined the game
+[01:07:11] [Server thread/INFO] [STDOUT]: [atomicstryker.minions.common.MinionsCore:getMinionMap:336]: Minions: minionMapLock was hanging
+[01:07:11] [Server thread/INFO] [STDOUT]: [atomicstryker.minions.common.MinionsCore:prepareMinionHolder:351]: New Minionlist prepared for user BrokenShot101
+[01:07:11] [Server thread/INFO] [journeymap]: BrokenShot101 joining dimension 0
+[01:07:11] [Server thread/INFO] [Waila]: Player EntityPlayerMP['BrokenShot101'/1372147, l='world', x=-152.50, y=63.00, z=226.50] connected. Sending ping
+[01:07:11] [Server thread/INFO] [gamestages]: Syncing 0 stages for BrokenShot101.
+[01:07:11] [Server thread/INFO] [mcjty.lib.varia.Logging]: SMP: Player logged in: Sync diminfo to clients
+[01:07:11] [Server thread/INFO] [mcjty.lib.varia.Logging]: Send dimlet rules to the client
+[01:07:11] [Server thread/INFO] [mcjty.lib.varia.Logging]: Rules packet size: 5779 of 8192
+[01:07:11] [Server thread/INFO] [Actually Additions]: Sending Player Data to player BrokenShot101 with UUID b7fe7cff-6440-4bcb-bea5-ec382acb3b24.
+[01:07:11] [Server thread/INFO] [journeymap]: Sending log in packet.
+[01:07:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: FrostShot11 moved too quickly! 9.131866965425274,3.3794531427152634,-3.44439697649711
+[01:07:28] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:07:28] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:07:29] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:08:13] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:08:13] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:08:14] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:08:58] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:08:58] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:08:59] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:09:43] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:09:43] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:09:44] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:10:28] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:10:28] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:10:29] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:10:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: FrostShot11 moved wrongly!
+[01:10:51] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [29, -5] in dimension 0 (overworld) while populating chunk [37, -10], causing cascading worldgen lag.
+[01:10:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:10:51] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [31, -5] in dimension 0 (overworld) while populating chunk [34, -10], causing cascading worldgen lag.
+[01:10:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:10:51] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [30, -5] in dimension 0 (overworld) while populating chunk [34, -10], causing cascading worldgen lag.
+[01:10:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:10:53] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [29, -6] in dimension 0 (overworld) while populating chunk [37, -11], causing cascading worldgen lag.
+[01:10:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:10:53] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [31, -6] in dimension 0 (overworld) while populating chunk [38, -11], causing cascading worldgen lag.
+[01:10:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:10:53] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [30, -6] in dimension 0 (overworld) while populating chunk [38, -11], causing cascading worldgen lag.
+[01:10:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:11:04] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:506]: Battle Tower type CobbleStoneMossy spawned at [ 848 | -64 ], underground: false
+[01:11:04] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[01:11:06] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[01:11:07] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[01:11:13] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:11:13] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:11:14] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:11:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: FrostShot11 moved too quickly! 0.9089489418205403,3.377190853651399,9.53003451110429
+[01:11:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: FrostShot11 moved wrongly!
+[01:11:58] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:11:58] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:11:59] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:12:43] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:12:43] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:12:44] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:13:23] [Server thread/INFO] [Scaling Health]: Blight Cave Spider was killed by FrostShot11
+[01:13:28] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:13:28] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:13:29] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:14:13] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:14:13] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:14:14] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:14:58] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:14:58] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:14:59] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:15:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: FrostShot11 moved too quickly! -10.56601342782551,0.0,2.61932428777979
+[01:15:43] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:15:44] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:15:44] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:15:44] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity minecraft:item but it was marked as removed already
+[01:15:45] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity minecraft:item but it was marked as removed already
+[01:16:28] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:16:29] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:16:29] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:17:13] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:17:13] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:17:14] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:17:50] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[01:17:55] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [58, -16] in dimension 0 (overworld) while populating chunk [59, -15], causing cascading worldgen lag.
+[01:17:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:17:55] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:506]: Battle Tower type CobbleStoneMossy spawned at [ 944 | -240 ], underground: false
+[01:17:57] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [46, -18] in dimension 0 (overworld) while populating chunk [47, -18], causing cascading worldgen lag.
+[01:17:57] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:17:57] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [46, -19] in dimension 0 (overworld) while populating chunk [47, -18], causing cascading worldgen lag.
+[01:17:57] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:17:57] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:506]: Battle Tower type CobbleStoneMossy spawned at [ 752 | -288 ], underground: false
+[01:17:59] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:17:59] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:17:59] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:17:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: FrostShot11 moved too quickly! -5.290552430890443,0.0,-9.48146988114189
+[01:18:03] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2622ms behind, skipping 52 tick(s)
+[01:18:10] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [38, -28] in dimension 0 (overworld) while populating chunk [39, -28], causing cascading worldgen lag.
+[01:18:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:18:10] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [38, -29] in dimension 0 (overworld) while populating chunk [39, -28], causing cascading worldgen lag.
+[01:18:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:18:10] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:506]: Battle Tower type CobbleStoneMossy spawned at [ 624 | -448 ], underground: false
+[01:18:12] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [39, -9] in dimension 0 (overworld) while populating chunk [33, -14], causing cascading worldgen lag.
+[01:18:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:18:14] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [23, -19] in dimension 0 (overworld) while populating chunk [31, -24], causing cascading worldgen lag.
+[01:18:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:18:14] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [23, -18] in dimension 0 (overworld) while populating chunk [31, -25], causing cascading worldgen lag.
+[01:18:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:18:15] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [22, -20] in dimension 0 (overworld) while populating chunk [30, -27], causing cascading worldgen lag.
+[01:18:15] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:18:15] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [23, -20] in dimension 0 (overworld) while populating chunk [30, -25], causing cascading worldgen lag.
+[01:18:15] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:18:18] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [28, -35] in dimension 0 (overworld) while populating chunk [28, -34], causing cascading worldgen lag.
+[01:18:18] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:18:18] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [27, -35] in dimension 0 (overworld) while populating chunk [28, -34], causing cascading worldgen lag.
+[01:18:18] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:18:18] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:506]: Battle Tower type CobbleStoneMossy spawned at [ 448 | -544 ], underground: false
+[01:18:20] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [45, -40] in dimension 0 (overworld) while populating chunk [46, -39], causing cascading worldgen lag.
+[01:18:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:18:20] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:506]: Battle Tower type CobbleStoneMossy spawned at [ 736 | -624 ], underground: false
+[01:18:24] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [33, -46] in dimension 0 (overworld) while populating chunk [34, -45], causing cascading worldgen lag.
+[01:18:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:18:24] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:506]: Battle Tower type CobbleStoneMossy spawned at [ 544 | -720 ], underground: false
+[01:18:25] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5644ms behind, skipping 112 tick(s)
+[01:18:27] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [30, -27] in dimension 0 (overworld) while populating chunk [24, -32], causing cascading worldgen lag.
+[01:18:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:18:28] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [30, -26] in dimension 0 (overworld) while populating chunk [23, -33], causing cascading worldgen lag.
+[01:18:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:18:28] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [21, -49] in dimension 0 (overworld) while populating chunk [22, -48], causing cascading worldgen lag.
+[01:18:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:18:28] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:506]: Battle Tower type SmoothStone spawned at [ 352 | -768 ], underground: false
+[01:18:29] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[01:18:29] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[01:18:30] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[01:18:30] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[01:18:30] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[01:18:32] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[01:18:32] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[01:18:48] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:18:48] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:18:48] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:18:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: FrostShot11 moved too quickly! -10.863087820820738,-0.6840000271797209,0.5333164937362653
+[01:18:52] [Server thread/WARN] [FML]: Fast Leaf Decay loaded a new chunk [11, -42] in dimension 0 (overworld) while populating chunk [12, -41], causing cascading worldgen lag.
+[01:18:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:19:01] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [8, -46] in dimension 0 (overworld) while populating chunk [9, -46], causing cascading worldgen lag.
+[01:19:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:19:01] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [8, -47] in dimension 0 (overworld) while populating chunk [9, -46], causing cascading worldgen lag.
+[01:19:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:19:01] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:506]: Battle Tower type CobbleStone spawned at [ 144 | -736 ], underground: false
+[01:19:02] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[01:19:03] [Server thread/WARN] [FML]: Fast Leaf Decay loaded a new chunk [6, -50] in dimension 0 (overworld) while populating chunk [6, -49], causing cascading worldgen lag.
+[01:19:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:19:04] [Server thread/WARN] [FML]: Fast Leaf Decay loaded a new chunk [5, -50] in dimension 0 (overworld) while populating chunk [6, -49], causing cascading worldgen lag.
+[01:19:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:19:04] [Server thread/WARN] [FML]: Fast Leaf Decay loaded a new chunk [5, -51] in dimension 0 (overworld) while populating chunk [6, -49], causing cascading worldgen lag.
+[01:19:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:19:04] [Server thread/WARN] [FML]: Fast Leaf Decay loaded a new chunk [4, -50] in dimension 0 (overworld) while populating chunk [6, -49], causing cascading worldgen lag.
+[01:19:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:19:04] [Server thread/WARN] [FML]: Fast Leaf Decay loaded a new chunk [4, -51] in dimension 0 (overworld) while populating chunk [6, -49], causing cascading worldgen lag.
+[01:19:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:19:05] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [20, -43] in dimension 0 (overworld) while populating chunk [13, -50], causing cascading worldgen lag.
+[01:19:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:19:05] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [21, -43] in dimension 0 (overworld) while populating chunk [14, -50], causing cascading worldgen lag.
+[01:19:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:19:05] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [22, -43] in dimension 0 (overworld) while populating chunk [15, -50], causing cascading worldgen lag.
+[01:19:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:19:08] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2523ms behind, skipping 50 tick(s)
+[01:19:26] [Aromabackup-Backup/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AromaBackup] Starting Backup. The server may lag for a bit!
+[01:19:29] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:19:29] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (AETHER): All chunks are saved
+[01:19:29] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (DIM2): All chunks are saved
+[01:19:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: FrostShot11 moved too quickly! -9.000534710766857,0.0,6.116004015426938
+[01:19:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: frostcrackle moved too quickly! -7.8409669329935525,-6.655232004516606,0.3961546145200714
+[01:19:33] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:19:33] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:19:33] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:19:46] [Aromabackup-Backup/INFO] [AromaBackup]: Deleted backup Backup--world--2019-04-23--22-19.zip.
+[01:19:46] [Aromabackup-Backup/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AromaBackup] Server Backup done!
+[01:20:18] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:20:18] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:20:18] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:21:03] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:21:03] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:21:03] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:21:48] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:21:48] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:21:48] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:22:33] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:22:33] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:22:33] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:23:18] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:23:18] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:23:18] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:24:03] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:24:03] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:24:03] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:24:48] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:24:48] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:24:48] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:25:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: FrostShot11 moved wrongly!
+[01:25:33] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:25:33] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:25:33] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:26:18] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:26:18] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:26:18] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:27:03] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:27:03] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:27:03] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:27:48] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:27:48] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:27:48] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:28:33] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:28:33] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:28:33] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:29:18] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:29:18] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:29:18] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:30:03] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:30:03] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:30:03] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:30:48] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:30:48] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:30:48] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:31:33] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:31:33] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:31:33] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:32:18] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:32:18] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:32:18] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:33:03] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:33:03] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:33:03] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:33:48] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:33:48] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:33:48] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:34:33] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:34:33] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:34:33] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:35:18] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:35:18] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:35:18] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:36:03] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:36:03] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:36:03] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:36:48] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:36:48] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:36:48] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:37:33] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:37:33] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:37:33] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:38:18] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:38:18] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:38:18] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:39:03] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:39:03] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:39:03] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:39:48] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:39:48] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:39:48] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:40:33] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:40:33] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:40:33] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:41:18] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:41:18] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:41:18] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:42:03] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:42:03] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:42:03] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:42:48] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:42:48] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:42:48] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:43:33] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:43:33] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:43:33] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:43:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FrostShot11 has shared a Lexica Botania entry, click to see it: [Mana Lenses]
+[01:43:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FrostShot11 has shared a Lexica Botania entry, click to see it: [Mana Lenses]
+[01:44:18] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:44:18] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:44:18] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:45:03] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:45:03] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:45:03] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:45:48] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:45:48] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:45:48] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:46:33] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:46:33] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:46:33] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:47:18] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:47:18] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:47:18] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:48:03] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:48:03] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:48:03] [Server thread/INFO] [gamestages]: Saved 0 stages for BrokenShot101.
+[01:48:13] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: BrokenShot101 lost connection: Disconnected
+[01:48:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: BrokenShot101 left the game
+[01:48:48] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:48:48] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:49:33] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:49:33] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:50:18] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:50:18] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:51:03] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:51:03] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:51:48] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:51:48] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:52:33] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:52:33] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:52:38] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_201]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_201]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_201]
+Caused by: java.lang.NullPointerException
+	at net.minecraft.advancements.PlayerAdvancements.func_194220_a(PlayerAdvancements.java:360) ~[np.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_194027_a(NetHandlerPlayServer.java:447) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketSeenAdvancements.func_148833_a(SourceFile:50) ~[lu.class:?]
+	at net.minecraft.network.play.client.CPacketSeenAdvancements.func_148833_a(SourceFile:11) ~[lu.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_201]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_201]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[01:52:39] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_201]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_201]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_201]
+Caused by: java.lang.NullPointerException
+	at net.minecraft.advancements.PlayerAdvancements.func_194220_a(PlayerAdvancements.java:360) ~[np.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_194027_a(NetHandlerPlayServer.java:447) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketSeenAdvancements.func_148833_a(SourceFile:50) ~[lu.class:?]
+	at net.minecraft.network.play.client.CPacketSeenAdvancements.func_148833_a(SourceFile:11) ~[lu.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_201]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_201]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[01:53:10] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: frostcrackle lost connection: Disconnected
+[01:53:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: frostcrackle left the game
+[01:53:18] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:53:30] [User Authenticator #11/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player frostcrackle is ecc574dd-4f98-4a71-b35c-2b8471839232
+[01:53:30] [Netty Server IO #11/INFO] [FML]: Client protocol version 2
+[01:53:30] [Netty Server IO #11/INFO] [FML]: Client attempting to join with 123 mods : buildcraftlib@7.99.23,p455w0rdslib@2.0.36,aov@0.11.5,rftools@7.61,buildcraftenergy@7.99.23,aether@0.2.0,doggytalents@1.14.2.438,cofhcore@4.6.2,projecte@1.12.2-PE1.4.0,thermalinnovation@0.3.2,strawgolem@1.3,immersivecables@1.3.2,ctm@MC1.12.2-0.3.3.22,albedo@0.1.3,neid@1.5.4.4,ae2stuff@0.7.0.4,justthetips@1.12-1.0.1.1,bookshelf@2.3.577,uteamcore@2.2.4.94,llibrary@1.7.18,secretroomsmod@5.6.4,cofhworld@1.3.0,darkutils@1.8.223,betterbuilderswands@0.11.1,waila@1.8.26,chickens@6.0.4,redstonearsenal@2.6.2,guideapi@1.12-2.1.8-63,intwheel@1.2.7,mcjtylib_ng@3.1.1,mcmultipart@2.5.3,refinedstorage@1.6.14,morph@7.1.3,usefulbackpacks@1.3.1.13,redstoneflux@2.1.0,buildcraftsilicon@7.99.23,battletowers@1.6.4,aromabackup@2.1.1.4,botania@r1.10-361,llor@1.1.6-mc1.12.2,actuallyadditions@1.12.2-r146,ic2@2.8.109-ex112,patchouli@1.0-18,buildcraftbuilders@7.99.23,gamestages@2.0.112,morechickens@3.1.0,buildcraftfactory@7.99.23,oreexcavation@1.4.137,hatchery@2.2.1,sanlib@1.5.1,FML@8.0.99.99,thermalexpansion@5.5.3,rftoolsdim@5.64,aromabackuprecovery@2.1.1.4,buildcraftcompat@7.99.23,cfm@6.2.0,moreoverlays@1.14,bigreactors@1.12.2-0.4.5.65,albedocore@0.1,badwithernocookiereloaded@1.12.2-3.3.16,codechickenlib@3.2.2.353,fastleafdecay@v14,scalinghealth@1.3.34,buildcraftcore@7.99.23,aroma1997sdimension@2.0.0.2,kiwi@0.5.2.29,tesla@1.0.63,snad@1.12.1-1.7.09.16a,jei@4.15.0.268,buildcrafttransport@7.99.23,thermalcultivation@0.3.2,bibliocraft@2.4.5,cosmeticbeds@1.12.2-1.0.2.2,thermalfoundation@2.6.2,bdlib@1.14.3.12,flextape@1.0,mcp@9.42,diethopper@1.1,sanplayermodel@1.1.1,journeymap@1.12.2-5.5.4,appliedenergistics2@rv6-stable-6,nuclearcraft@2.15,aroma1997core@2.0.0.2,chameleon@1.12-4.1.3,champions@1.12.2-1.0.8,inventorytweaks@1.63+release.109.220f184,harvestcraft@1.12.2zb,millenaire@Millénaire 7.1.4,orbis-lib@0.2.0,ichunutil@7.2.1,forge@14.23.5.2808,bloodmagic@1.12.2-2.4.0-102,phosphor-lighting@1.12.2-0.1.6,buildcraftrobotics@7.99.23,ironchest@1.12.2-7.0.59.842,craftingtweaks@8.1.9,zerocore@1.12.2-0.1.2.8,minecraft@1.12.2,tconstruct@1.12.2-2.12.0.135,claysoldiers@3.0.0-beta.2,theoneprobe@1.4.28,mousetweaks@2.10,immersiveengineering@0.12-89,thermaldynamics@2.5.4,silentlib@3.0.13,baubles@1.5.2,tammodized@0.15.6,minions@2.0.3,ding@1.0.1,srm-hooks@1.12.2-1.0.0,quark@r1.5-146,mantle@1.12-1.3.3.49,gravestone@1.10.1,fastbench@1.6.1,autoreglib@1.3-26,storagedrawers@1.12-5.3.5,railcraft@12.0.0,cuisine@0.5.0-build838,chisel@MC1.12.2-0.2.1.35,monk@1.4,parry@1.0,chiselsandbits@14.31,forestry@5.8.1.322
+[01:53:30] [Netty Server IO #11/INFO] [FML]: Attempting connection with missing mods [bedpatch] at CLIENT
+[01:53:30] [Netty Server IO #11/INFO] [journeymap]: CLIENT
+[01:53:30] [Netty Server IO #11/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[01:53:37] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:53:37] [Server thread/INFO] [gamestages]: Loaded 0 stages for frostcrackle.
+[01:53:37] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: frostcrackle[/8.22.108.161:64780] logged in with entity id 1553248 at (-117.02271041336934, 69.0, 212.77732951412153)
+[01:53:37] [Server thread/INFO] [mcjty.lib.varia.Logging]: SMP: Sync dimensions to client
+[01:53:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: frostcrackle joined the game
+[01:53:37] [Server thread/INFO] [STDOUT]: [atomicstryker.minions.common.MinionsCore:prepareMinionHolder:351]: New Minionlist prepared for user frostcrackle
+[01:53:37] [Server thread/INFO] [journeymap]: frostcrackle joining dimension 0
+[01:53:38] [Server thread/INFO] [Waila]: Player EntityPlayerMP['frostcrackle'/1553248, l='world', x=-117.02, y=69.00, z=212.78] connected. Sending ping
+[01:53:38] [Server thread/INFO] [gamestages]: Syncing 0 stages for frostcrackle.
+[01:53:38] [Server thread/INFO] [mcjty.lib.varia.Logging]: SMP: Player logged in: Sync diminfo to clients
+[01:53:38] [Server thread/INFO] [mcjty.lib.varia.Logging]: Send dimlet rules to the client
+[01:53:38] [Server thread/INFO] [mcjty.lib.varia.Logging]: Rules packet size: 5779 of 8192
+[01:53:38] [Server thread/INFO] [Actually Additions]: Sending Player Data to player frostcrackle with UUID ecc574dd-4f98-4a71-b35c-2b8471839232.
+[01:53:38] [Server thread/INFO] [journeymap]: Sending log in packet.
+[01:54:03] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:54:03] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:54:48] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:54:48] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:55:33] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:55:33] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:56:18] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:56:18] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:56:52] [Server thread/INFO] [Scaling Health]: Blight Creeper was killed by frostcrackle
+[01:57:03] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:57:03] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:57:48] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:57:48] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:58:33] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:58:33] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[01:59:18] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[01:59:18] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:00:03] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:00:03] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:00:48] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:00:48] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:01:33] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:01:33] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:02:18] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:02:18] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:02:19] [Server thread/INFO] [Scaling Health]: Blight Spider was killed by frostcrackle
+[02:03:03] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:03:03] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:03:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: frostcrackle has made the advancement [Inner Arts]
+[02:03:48] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:03:48] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:04:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: FrostShot11 moved too quickly! -10.771815861468667,0.0,1.5898790665470415
+[02:04:33] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:04:33] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:05:18] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:05:18] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:06:03] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:06:03] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:06:48] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:06:48] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:07:33] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:07:33] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:07:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: frostcrackle moved wrongly!
+[02:08:18] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:08:18] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:08:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: frostcrackle moved wrongly!
+[02:09:03] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:09:03] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:09:48] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:09:48] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:10:33] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:10:33] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:11:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: FrostShot11 moved too quickly! -9.759617531013987,3.3750001341104507,0.8809933803863714
+[02:11:18] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:11:18] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:12:03] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:12:03] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:12:48] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:12:48] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:13:33] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:13:33] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:14:18] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:14:18] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:15:03] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:15:03] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:15:48] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:15:48] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:16:33] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:16:33] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:17:18] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:17:18] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:18:03] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:18:03] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:18:48] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:18:48] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:19:11] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@a6f0fa)
+[02:19:11] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.WorldGenHandler:loadPosFile:357]: Battletower Positions reloaded. Lines 236, entries 233
+[02:19:11] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.WorldGenHandler:loadPosFile:357]: Battletower Positions reloaded. Lines 236, entries 233
+[02:19:13] [Server thread/INFO] [journeymap]: frostcrackle joining dimension -1
+[02:19:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: FrostShot11 moved too quickly! 7.896859191515432,3.158724565580428,-5.617143646248053
+[02:19:26] [Aromabackup-Backup/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AromaBackup] Starting Backup. The server may lag for a bit!
+[02:19:29] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:19:30] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:19:30] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (AETHER): All chunks are saved
+[02:19:30] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (DIM2): All chunks are saved
+[02:19:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: frostcrackle moved too quickly! 10.52110360757736,0.0,-0.05799381488346711
+[02:19:30] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2120ms behind, skipping 42 tick(s)
+[02:19:33] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:19:33] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:19:55] [Aromabackup-Backup/INFO] [AromaBackup]: Deleted backup Backup--world--2019-04-23--23-19.zip.
+[02:19:55] [Aromabackup-Backup/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AromaBackup] Server Backup done!
+[02:20:18] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:20:18] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:21:03] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:21:03] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:21:48] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:21:48] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:22:33] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:22:33] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:22:59] [Server thread/INFO] [Scaling Health]: Blight Blaze was killed by frostcrackle
+[02:23:18] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:23:18] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:24:03] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:24:03] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:24:48] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:24:48] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:25:33] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:25:33] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:26:18] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:26:18] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:26:58] [Server thread/WARN] [FML]: Chickens loaded a new chunk [-43, -3] in dimension -1 (the_nether) while populating chunk [-42, -2], causing cascading worldgen lag.
+[02:26:58] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:27:04] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:27:04] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:27:27] [Server thread/WARN] [FML]: Chickens loaded a new chunk [-48, 12] in dimension -1 (the_nether) while populating chunk [-47, 12], causing cascading worldgen lag.
+[02:27:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:27:27] [Server thread/WARN] [FML]: Chickens loaded a new chunk [-48, 11] in dimension -1 (the_nether) while populating chunk [-48, 12], causing cascading worldgen lag.
+[02:27:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:27:27] [Server thread/WARN] [FML]: Chickens loaded a new chunk [-47, 7] in dimension -1 (the_nether) while populating chunk [-46, 7], causing cascading worldgen lag.
+[02:27:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:27:27] [Server thread/WARN] [FML]: Chickens loaded a new chunk [-47, 6] in dimension -1 (the_nether) while populating chunk [-46, 7], causing cascading worldgen lag.
+[02:27:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:27:31] [Server thread/WARN] [FML]: Chickens loaded a new chunk [-50, 16] in dimension -1 (the_nether) while populating chunk [-49, 17], causing cascading worldgen lag.
+[02:27:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:27:33] [Server thread/WARN] [FML]: Chickens loaded a new chunk [-51, 16] in dimension -1 (the_nether) while populating chunk [-50, 17], causing cascading worldgen lag.
+[02:27:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:27:38] [Server thread/WARN] [FML]: Chickens loaded a new chunk [-53, 13] in dimension -1 (the_nether) while populating chunk [-52, 14], causing cascading worldgen lag.
+[02:27:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:27:48] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:27:48] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:28:05] [Server thread/WARN] [FML]: Chickens loaded a new chunk [-56, 26] in dimension -1 (the_nether) while populating chunk [-55, 27], causing cascading worldgen lag.
+[02:28:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:28:33] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:28:33] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:29:18] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:29:18] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:30:04] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:30:04] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:30:07] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a heart container (player frostcrackle)
+[02:30:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [frostcrackle: Given [Sigil of Holding] * 1 to frostcrackle]
+[02:30:48] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:30:48] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:30:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [frostcrackle: Given [Sigil of the Blood Lamp] * 1 to frostcrackle]
+[02:31:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [frostcrackle: Given [Water Sigil] * 1 to frostcrackle]
+[02:31:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [frostcrackle: Given [Lava Sigil] * 1 to frostcrackle]
+[02:31:33] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:31:33] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:32:18] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:32:18] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:32:26] [Server thread/WARN] [FML]: Chickens loaded a new chunk [-57, 23] in dimension -1 (the_nether) while populating chunk [-57, 24], causing cascading worldgen lag.
+[02:32:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:33:03] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:33:03] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:33:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: frostcrackle moved too quickly! 10.391600282469199,0.0,-3.2764713567131594
+[02:33:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: frostcrackle moved too quickly! 11.060297203513755,0.012831568046820507,-2.9038306982142785
+[02:33:48] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:33:48] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:33:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: frostcrackle moved too quickly! 7.034387431004063,0.0,9.069386160817515
+[02:34:33] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:34:33] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:34:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: frostcrackle moved too quickly! 8.61553186427409,0.0,-6.324514270620597
+[02:35:04] [Server thread/INFO] [journeymap]: frostcrackle joining dimension 0
+[02:35:05] [Server thread/INFO] [FML]: Unloading dimension -1
+[02:35:18] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:35:18] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:36:03] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:36:03] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:36:48] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:36:48] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:37:05] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: frostcrackle lost connection: Disconnected
+[02:37:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: frostcrackle left the game
+[02:37:21] [User Authenticator #12/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player frostcrackle is ecc574dd-4f98-4a71-b35c-2b8471839232
+[02:37:21] [Netty Server IO #13/INFO] [FML]: Client protocol version 2
+[02:37:21] [Netty Server IO #13/INFO] [FML]: Client attempting to join with 123 mods : buildcraftlib@7.99.23,p455w0rdslib@2.0.36,aov@0.11.5,rftools@7.61,buildcraftenergy@7.99.23,aether@0.2.0,doggytalents@1.14.2.438,cofhcore@4.6.2,projecte@1.12.2-PE1.4.0,thermalinnovation@0.3.2,strawgolem@1.3,immersivecables@1.3.2,ctm@MC1.12.2-0.3.3.22,albedo@0.1.3,neid@1.5.4.4,ae2stuff@0.7.0.4,justthetips@1.12-1.0.1.1,bookshelf@2.3.577,uteamcore@2.2.4.94,llibrary@1.7.18,secretroomsmod@5.6.4,cofhworld@1.3.0,darkutils@1.8.223,betterbuilderswands@0.11.1,waila@1.8.26,chickens@6.0.4,redstonearsenal@2.6.2,guideapi@1.12-2.1.8-63,intwheel@1.2.7,mcjtylib_ng@3.1.1,mcmultipart@2.5.3,refinedstorage@1.6.14,morph@7.1.3,usefulbackpacks@1.3.1.13,redstoneflux@2.1.0,buildcraftsilicon@7.99.23,battletowers@1.6.4,aromabackup@2.1.1.4,botania@r1.10-361,llor@1.1.6-mc1.12.2,actuallyadditions@1.12.2-r146,ic2@2.8.109-ex112,patchouli@1.0-18,buildcraftbuilders@7.99.23,gamestages@2.0.112,morechickens@3.1.0,buildcraftfactory@7.99.23,oreexcavation@1.4.137,hatchery@2.2.1,sanlib@1.5.1,FML@8.0.99.99,thermalexpansion@5.5.3,rftoolsdim@5.64,aromabackuprecovery@2.1.1.4,buildcraftcompat@7.99.23,cfm@6.2.0,moreoverlays@1.14,bigreactors@1.12.2-0.4.5.65,albedocore@0.1,badwithernocookiereloaded@1.12.2-3.3.16,codechickenlib@3.2.2.353,fastleafdecay@v14,scalinghealth@1.3.34,buildcraftcore@7.99.23,aroma1997sdimension@2.0.0.2,kiwi@0.5.2.29,tesla@1.0.63,snad@1.12.1-1.7.09.16a,jei@4.15.0.268,buildcrafttransport@7.99.23,thermalcultivation@0.3.2,bibliocraft@2.4.5,cosmeticbeds@1.12.2-1.0.2.2,thermalfoundation@2.6.2,bdlib@1.14.3.12,flextape@1.0,mcp@9.42,diethopper@1.1,sanplayermodel@1.1.1,journeymap@1.12.2-5.5.4,appliedenergistics2@rv6-stable-6,nuclearcraft@2.15,aroma1997core@2.0.0.2,chameleon@1.12-4.1.3,champions@1.12.2-1.0.8,inventorytweaks@1.63+release.109.220f184,harvestcraft@1.12.2zb,millenaire@Millénaire 7.1.4,orbis-lib@0.2.0,ichunutil@7.2.1,forge@14.23.5.2808,bloodmagic@1.12.2-2.4.0-102,phosphor-lighting@1.12.2-0.1.6,buildcraftrobotics@7.99.23,ironchest@1.12.2-7.0.59.842,craftingtweaks@8.1.9,zerocore@1.12.2-0.1.2.8,minecraft@1.12.2,tconstruct@1.12.2-2.12.0.135,claysoldiers@3.0.0-beta.2,theoneprobe@1.4.28,mousetweaks@2.10,immersiveengineering@0.12-89,thermaldynamics@2.5.4,silentlib@3.0.13,baubles@1.5.2,tammodized@0.15.6,minions@2.0.3,ding@1.0.1,srm-hooks@1.12.2-1.0.0,quark@r1.5-146,mantle@1.12-1.3.3.49,gravestone@1.10.1,fastbench@1.6.1,autoreglib@1.3-26,storagedrawers@1.12-5.3.5,railcraft@12.0.0,cuisine@0.5.0-build838,chisel@MC1.12.2-0.2.1.35,monk@1.4,parry@1.0,chiselsandbits@14.31,forestry@5.8.1.322
+[02:37:21] [Netty Server IO #13/INFO] [FML]: Attempting connection with missing mods [bedpatch] at CLIENT
+[02:37:21] [Netty Server IO #13/INFO] [journeymap]: CLIENT
+[02:37:21] [Netty Server IO #13/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[02:37:28] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:37:28] [Server thread/INFO] [gamestages]: Loaded 0 stages for frostcrackle.
+[02:37:28] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: frostcrackle[/8.22.108.161:65048] logged in with entity id 1734323 at (-142.40130259707848, 70.0, 216.53705949145655)
+[02:37:28] [Server thread/INFO] [mcjty.lib.varia.Logging]: SMP: Sync dimensions to client
+[02:37:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: frostcrackle joined the game
+[02:37:29] [Server thread/INFO] [STDOUT]: [atomicstryker.minions.common.MinionsCore:getMinionMap:336]: Minions: minionMapLock was hanging
+[02:37:29] [Server thread/INFO] [STDOUT]: [atomicstryker.minions.common.MinionsCore:prepareMinionHolder:351]: New Minionlist prepared for user frostcrackle
+[02:37:29] [Server thread/INFO] [journeymap]: frostcrackle joining dimension 0
+[02:37:29] [Server thread/INFO] [Waila]: Player EntityPlayerMP['frostcrackle'/1734323, l='world', x=-142.40, y=70.00, z=216.54] connected. Sending ping
+[02:37:29] [Server thread/INFO] [gamestages]: Syncing 0 stages for frostcrackle.
+[02:37:29] [Server thread/INFO] [mcjty.lib.varia.Logging]: SMP: Player logged in: Sync diminfo to clients
+[02:37:29] [Server thread/INFO] [mcjty.lib.varia.Logging]: Send dimlet rules to the client
+[02:37:29] [Server thread/INFO] [mcjty.lib.varia.Logging]: Rules packet size: 5779 of 8192
+[02:37:29] [Server thread/INFO] [Actually Additions]: Sending Player Data to player frostcrackle with UUID ecc574dd-4f98-4a71-b35c-2b8471839232.
+[02:37:29] [Server thread/INFO] [journeymap]: Sending log in packet.
+[02:37:33] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:37:33] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:38:18] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:38:18] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:39:03] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:39:04] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:39:48] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:39:48] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:40:33] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:40:33] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:41:18] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:41:18] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:42:03] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:42:03] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:42:48] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:42:48] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:43:33] [Server thread/INFO] [gamestages]: Saved 0 stages for FrostShot11.
+[02:43:33] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:43:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: FrostShot11 lost connection: Disconnected
+[02:43:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FrostShot11 left the game
+[02:44:18] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:45:03] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:45:48] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:46:33] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:47:18] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:48:03] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:48:48] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:49:33] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:50:18] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:51:03] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:51:48] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:52:33] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:53:18] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:54:03] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:54:48] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:55:33] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:56:18] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:57:03] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:57:48] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:58:33] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[02:59:18] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[03:00:03] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[03:00:48] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[03:01:33] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[03:02:18] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[03:03:03] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[03:03:48] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[03:04:33] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[03:05:18] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[03:06:03] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[03:06:48] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[03:07:33] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[03:08:18] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[03:09:03] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[03:09:48] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[03:10:33] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[03:11:18] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[03:12:03] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[03:12:48] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[03:13:33] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[03:14:18] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[03:15:03] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[03:15:48] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[03:16:33] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[03:17:18] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[03:18:03] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[03:18:48] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[03:19:26] [Aromabackup-Backup/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AromaBackup] Starting Backup. The server may lag for a bit!
+[03:19:28] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:19:28] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (AETHER): All chunks are saved
+[03:19:28] [Server thread/INFO] [net.minecraft.world.chunk.storage.AnvilChunkLoader]: ThreadedAnvilChunkStorage (DIM2): All chunks are saved
+[03:19:33] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[03:19:46] [Aromabackup-Backup/INFO] [AromaBackup]: Deleted backup Backup--world--2019-04-24--00-19.zip.
+[03:19:46] [Aromabackup-Backup/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AromaBackup] Server Backup done!
+[03:20:18] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[03:21:03] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[03:21:48] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[03:22:33] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[03:23:18] [Server thread/INFO] [gamestages]: Saved 0 stages for frostcrackle.
+[03:23:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: frostcrackle lost connection: Disconnected
+[03:23:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: frostcrackle left the game
+[03:24:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Saving...
+[03:24:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Saved the world
+[03:24:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[03:24:34] [Server thread/INFO] [AromaBackup]: Delaying server stop to finish Backup.
+[03:24:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[03:24:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[03:24:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[03:24:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[03:24:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/Aether
+[03:24:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/Storage Cell
+[03:24:34] [Server thread/INFO] [STDOUT]: [atomicstryker.minions.common.MinionsCore:getMinionMap:336]: Minions: minionMapLock was hanging
+[03:24:34] [Server thread/INFO] [STDOUT]: [atomicstryker.minions.common.MinionsCore:getMinionMap:336]: Minions: minionMapLock was hanging
+[03:24:34] [Server thread/INFO] [FML]: Unloading dimension 0
+[03:24:34] [Server thread/INFO] [FML]: Unloading dimension 3
+[03:24:34] [Server thread/INFO] [FML]: Unloading dimension 2
+[03:24:34] [Server thread/INFO] [Actually Additions]: Unloaded WorldData!
+[03:24:34] [Server thread/INFO] [mcjty.lib.varia.Logging]: Cleaning up all world data: 1 data blobs
+[03:24:34] [Server thread/INFO] [mcjty.lib.varia.Logging]: RFTools Dimensions: server is stopping. Shutting down gracefully
+[03:24:34] [Server thread/INFO] [mcjty.lib.varia.Logging]: Cleaning up RFTools dimensions
+[03:24:34] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[03:24:34] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[03:24:34] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds

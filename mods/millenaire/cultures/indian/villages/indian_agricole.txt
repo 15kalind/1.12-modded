@@ -1,0 +1,82 @@
+name=Gaanv
+icon=rice
+weight=10
+carriesraid=true
+
+//Vanilla biomes
+biome=Desert
+biome=Desert M
+biome=Mesa
+biome=Mesa M
+biome=Mesa Plateau
+biome=Mesa Plateau M
+biome=Mesa Plateau F
+biome=Mesa Plateau F M
+biome=JungleEdge
+biome=Savanna
+biome=Savanna M
+biome=Savanna Plateau
+
+//biomes o'plenty
+biome=lush desert
+biome=lush swamp
+biome=outback
+biome=shrubland
+biome=rainforest
+biome=xeric shrubland
+
+//Traverse biomes
+biome=Arid Highland
+biome=Mountainous Desert
+biome=Rocky Plateau
+biome=Red Desert
+biome=Desert Shrubland
+biome= Badlands
+
+pathmaterial=pathdirt
+pathmaterial=pathsandstone
+
+//starting buildings=
+centre=chiefhouse
+start=peasanthouse
+start=peasanthouse
+start=lumbermanhouse
+start=pandithouse
+start=grove
+start=brickkiln
+start=inn
+
+player=playersmallfield
+player=playersmallhouse
+player=playerlargefield
+player=playerhugefield
+player=playerestate
+player=gifthouse
+
+//to be built in priority
+core=largepeasanthouse
+core=scultorhouse
+core=quarry
+core=paddy
+core=grove
+core=sugarplantation
+core=villagetree
+core=hindushrine
+
+//to be built after the core ones
+secondary=spicegarden
+secondary=villagetemple
+secondary=archives
+secondary=well
+secondary=bazaar
+secondary=tank
+
+//never for this type of village
+never=forge
+never=armyforge
+
+//Selling prices=
+sellingprice=iron,0
+
+//Buying prices=
+buyingprice=iron,0

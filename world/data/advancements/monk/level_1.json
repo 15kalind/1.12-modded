@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "monk:monk_level",
+      "nbt": "{\"icon\":\"monk:icon/tree\"}"
+    },
+    "title": {
+      "translate": "monk.advancements.level",
+      "with": [
+        "1"
+      ]
+    },
+    "description": {
+      "translate": "monk.advancements.requirement.break_wood",
+      "with": [
+        "10"
+      ]
+    },
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "monk:root",
+  "criteria": {
+    "level": {
+      "trigger": "monk:levelup",
+      "conditions": {
+        "level": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,72 @@
+culture.norman=Normandia
+
+//Norman:
+villager.abbot=Opat
+villager.carpenter=Cieśla
+villager.cattleFarmerMale=Pasterz
+villager.cattleFarmerFemale=Pasterz
+villager.pigherd=Świniopas
+villager.pigherdF=Świniopas
+villager.shepherd=Pasterz
+villager.shepherdF=Pasterz
+villager.boy=Chłopiec
+villager.girl=Dziewczynka
+villager.teenagerMale=Młodzieniec
+villager.teenagerFemale=Młódka
+villager.farmer=Farmer
+villager.merchant_viking=Handlarz wikingów
+villager.merchant_weapon=Handlarz bronią
+villager.merchant_plant=Handlarz roślin
+villager.merchant_art=Handlarz dziełami sztuki
+villager.merchant_wool=Handlarz tekstyliami
+villager.merchant_food=Handlarz żywnością
+villager.guard=Strażnik
+villager.guildmaster=Mistrz gildii
+villager.knight=Rycerz
+villager.lady=Dwórka
+villager.lumberman=Drwal
+villager.merchant=Kupiec
+villager.miner=Górnik
+villager.monk=Mnich
+villager.priest=Ksiądz
+villager.seneschal=Majordom
+villager.smith=Kowal
+villager.wife=Wieśniaczka
+villager.innkeeperfemale=Karczmarka
+villager.innkeepermale=Karczmarz
+villager.lonemiller=Młynarz
+villager.merchant_weapons=Handlarz bronią
+villager.robberbaron=Herszt bandytów
+villager.robberleader=Herszt bandytów
+
+villager.lonelumberman=Drwal
+villager.lonelumbermantaiga=Drwal
+villager.loneminer=Górnik
+villager.lonemonk=Mnich
+villager.loneabbot=Opat
+villager.alchemist=Alchemik
+villager.alchemistassistant=Asystent Alchemika
+villager.alchemistapprentice=Alchemik Czeladnik
+villager.bandit=Bandyta
+villager.armoredbandit=Bandyta
+villager.felonbaron=Bandyta
+villager.felonsoldier=Bandyta
+
+
+
+shop.townhall=Ratusz
+shop.forge=Narzędzia
+shop.armoury=Broń i zbroje
+shop.bakery=Chleb
+shop.cattlefarm=Produkty wołowe
+shop.pigfarm=Produkty wieprzowe
+shop.sheepchickenfarm=Drób
+shop.tavern=Alkohol
+shop.lumberman=Jabłka cydrowe
+shop.lonemine=Kamień
+shop.alchemyworkshop=Produkty alchemiczne
+shop.lonelumberman=Drewno i jabłka
+shop.lonemill=Chleb
+shop.loneinn=Jedzenie i napoje
+shop.lonelumbermantaiga=Drewno
+shop.loneabbey=Produkty Opactwa

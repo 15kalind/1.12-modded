@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "monk:monk_level",
+      "nbt": "{\"icon\":\"monk:icon/meditate\"}"
+    },
+    "title": {
+      "translate": "monk.advancements.level.start"
+    },
+    "description": {
+      "translate": "monk.advancements.level.start.desc"
+    },
+    "background": "monk:textures/advancements/advancement_background.png",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "level": {
+      "trigger": "monk:levelup",
+      "conditions": {
+        "level": 0
+      }
+    }
+  }
+}

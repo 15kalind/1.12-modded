@@ -1,0 +1,50 @@
+{
+  "display": {
+    "icon": {
+      "item": "monk:monk_level",
+      "nbt": "{\"icon\":\"monk:icon/ghast\"}"
+    },
+    "title": {
+      "translate": "monk.advancements.level",
+      "with": [
+        "13"
+      ]
+    },
+    "description": {
+      "translate": "monk.advancements.requirement.break_block",
+      "with": [
+        "1",
+        {
+          "color": "white",
+          "hoverEvent": {
+            "action": "show_item",
+            "value": {
+              "text": "{id:\"minecraft:obsidian\",Count:1b,Damage:0s}"
+            }
+          },
+          "extra": [
+            {
+              "text": "Obsidian"
+            },
+            {
+              "text": "]"
+            }
+          ],
+          "text": "["
+        }
+      ]
+    },
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "monk:level_12",
+  "criteria": {
+    "level": {
+      "trigger": "monk:levelup",
+      "conditions": {
+        "level": 13
+      }
+    }
+  }
+}

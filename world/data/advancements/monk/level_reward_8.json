@@ -1,0 +1,80 @@
+{
+  "display": {
+    "icon": {
+      "item": "monk:monk_level",
+      "nbt": "{\"icon\":\"monk:icon/rewards\"}"
+    },
+    "title": {
+      "translate": "monk.advancements.reward",
+      "with": [
+        "8"
+      ]
+    },
+    "description": {
+      "color": "aqua",
+      "extra": [
+        {
+          "color": "reset",
+          "extra": [
+            {
+              "translate": "monk.advancements.ability.catch_arrows.desc"
+            }
+          ],
+          "text": ": "
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "color": "aqua",
+          "extra": [
+            {
+              "color": "reset",
+              "extra": [
+                {
+                  "translate": "monk.advancements.ability.swift.desc",
+                  "with": [
+                    "80%"
+                  ]
+                }
+              ],
+              "text": ": "
+            }
+          ],
+          "translate": "monk.advancements.ability.swift"
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "color": "aqua",
+          "extra": [
+            {
+              "color": "reset",
+              "extra": [
+                {
+                  "translate": "monk.advancements.ability.step_up.desc"
+                }
+              ],
+              "text": ": "
+            }
+          ],
+          "translate": "monk.advancements.ability.step_up"
+        }
+      ],
+      "translate": "monk.advancements.ability.catch_arrows"
+    },
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "parent": "monk:level_7",
+  "criteria": {
+    "level": {
+      "trigger": "monk:levelup",
+      "conditions": {
+        "level": 8
+      }
+    }
+  }
+}

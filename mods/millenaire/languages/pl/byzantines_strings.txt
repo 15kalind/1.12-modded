@@ -1,0 +1,63 @@
+culture.byzantines=Byzantine
+
+village.controlled=Wioska kontrolowana
+village.customcontrolled=Wioska oparta na kulturze
+village.emporikos=Wioska oparta na handlu
+village.military=Fort
+village.ortodox=Wioska oparta na religii
+
+villager.teenagerMale=Młodzieniec
+villager.teenagerFemale=Młódka
+villager.boy_byzantine=Chłopczyk
+villager.girl_byzantine=Dziewczynka
+villager.farmiller_byzantine=Młynarz
+villager.farmiller_wife_byzantine=Żona młynarza
+villager.wife_byzantine=Żona
+villager.miner_byzantine=Górnik
+villager.artisan_byzantine=Rzemieślnik
+villager.patriarch_byzantine=Przywódca
+villager.lumberman_byzantine=Drwal
+villager.shepherd_byzantine=Pasterz
+villager.shepherd_female_byzantine=Pasterka
+villager.fisherman_byzantine=Rybak
+villager.baron_byzantine=Baron
+villager.richwife_byzantine=Bogata kobieta
+villager.merchant_norman=Normański handlarz
+villager.merchant_hindi=Hinduski handlarz
+villager.merchant_mayan=Majański handlarz
+villager.merchant_japanese=Japoński handlarz
+villager.centurio_byzantine=Centurion
+villager.soldier_byzantine=Żołnierz
+villager.playersoldier_byzantine=Żołnierz
+villager.smith_byzantine=Kowal
+villager.merchant_byzantine=Handlarz
+villager.pastor_byzantine=Pastor
+villager.artwife_byzantine=Żona rzemieślnika
+villager.architect_byzantine=Architekt
+villager.silkfarmer_byzantine=Tkacz jedwabiu
+villager.silkfarmerwife_byzantine=Tkaczka jebwabiu
+villager.armysmith_byzantine=Zbrojmistrz
+
+villager.smuggler_silk=Handlarz jedwabiem
+villager.merchant_art=Handlarz sztuką
+villager.merchant_food=Handlarz żywnością
+villager.merchant_materials=Handlarz kamieniem
+
+villager.keeperOak_byzantine=Strażnik
+villager.keeperBirch_byzantine=Strażnik
+villager.keeperTropical_byzantine=Strażnik
+villager.keeperPine_byzantine=Strażnik
+villager.loneshepherd_byzantine=Pasterz
+villager.loneshepherdf_byzantine=Pasterka
+villager.keeper_byzantine=Latarnik
+
+shop.townhall=Główny sklep
+shop.forge=Narzędzia
+shop.armyforge=Narzędzia, uzbrojenie i pancerze
+shop.lonetower=Jedzenie
+shop.tavernbyz=Wino
+shop.lonesheep=Wełna
+shop.bakery=Piekarnia
+shop.fishery=Ryba
+shop.sheepfarm=Jagnięcina,skóra i ser feta
+shop.clothing=Odzież

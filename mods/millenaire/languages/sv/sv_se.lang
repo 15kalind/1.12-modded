@@ -1,0 +1,52 @@
+#From 1.12 onward, block and item names must be in lang files
+#packaged within the jar.
+#A copy is provided in millenaire/languages for the translators' convenience,
+#but will not be used by Minecraft. It will however be copied within the jar
+#when a new Millénaire version is packaged.
+
+#The Translation Gaps calculator however does use the versions in the
+#millenaire/language folder, so you can check your progress without
+#copying it in the jar
+
+
+#Item names
+tile.millenaire.locked_chest.name=Byggnad
+item.millenaire.normanpickaxe.name=Normansk Stenhacka
+item.millenaire.normanaxe.name=Normansk Yxa
+item.millenaire.normanshovel.name=Normansk Spade
+item.millenaire.normanhoe.name=Normanskt Hacka
+item.millenaire.normanbroadsword.name=Normanskt Svärd
+item.millenaire.normanhelmet.name=Normansk Hjälm
+item.millenaire.normanplate.name=Normansk Bröstplåt
+item.millenaire.normanlegs.name=Normanska Byxor
+item.millenaire.normanboots.name=Normanska Stövlar
+item.millenaire.rice.name=Ris
+item.millenaire.turmeric.name=Gurkmeja
+item.millenaire.vegcurry.name=Vegetarisk Curry
+item.millenaire.chickenmeat.name=Kyckling
+item.millenaire.chickencurry.name=Murgh Curry
+item.millenaire.brickmould.name=Tegel Form
+item.millenaire.rasgulla.name=Rasgulla
+tile.millenaire.timberframeplain.name=Enkel Trästomme
+tile.millenaire.timberframecross.name=Korsformad Trästomme
+tile.millenaire.wetbrick0.name=Blöt Tegel
+tile.millenaire.cookedbrick.name=Kokt Tegel
+tile.millenaire.mudbrick.name=Ler Tegel
+item.millenaire.indianstatue.name=Indisk Staty
+item.millenaire.cider.name=Cider
+item.millenaire.parchment_villagescroll.name=By Rulle
+item.millenaire.parchment_normanfull.name=Normansk Rulle
+item.millenaire.summoningwand.name=Byskaparstav
+item.millenaire.dwarves_amulet.name=Dvärg Amulet
+item.millenaire.yggdrasil_amulet.name=Yddrasil Amulet
+item.millenaire.skoll_hati_amulet.name=Sköll och Hati Amulet
+item.millenaire.parchment_normanitems.name=Normanska Saker
+item.millenaire.parchment_normanbuildings.name=Normanska Byggnader
+item.millenaire.ciderapple.name=Cider Äpple
+item.millenaire.parchment_normanvillagers.name=Normanska Bybor
+item.millenaire.tapestry.name=Tavla
+item.millenaire.raven_amulet.name=Korp Amulet
+item.millenaire.parchment_indianfull.name=Indisk Rulle
+item.millenaire.parchment_indianitems.name=Indiska saker
+item.millenaire.parchment_indianbuildings.name=Indiska byggnader
+item.millenaire.parchment_indianvillagers.name=Indiska bybor

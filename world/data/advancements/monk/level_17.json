@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "monk:monk_level",
+      "nbt": "{\"icon\":\"monk:icon/bed\"}"
+    },
+    "title": {
+      "translate": "monk.advancements.level",
+      "with": [
+        "17"
+      ]
+    },
+    "description": {
+      "translate": "monk.advancements.requirement.bedrock_sleep"
+    },
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "monk:level_16",
+  "criteria": {
+    "level": {
+      "trigger": "monk:levelup",
+      "conditions": {
+        "level": 17
+      }
+    }
+  }
+}

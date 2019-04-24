@@ -1,0 +1,17 @@
+player_name=frostcrackle
+donation_mode=false
+village_diplomacy=-46/74/1010,5
+village_diplomacy=-1470/70/-1022,5
+village_diplomacy=-560/73/1430,5
+village_diplomacy=-542/72/1610,5
+village_diplomacy=52/68/1114,5
+village_diplomacy=-2382/75/-926,5
+village_diplomacy=-2574/68/-1022,5
+village_diplomacy=-1867/65/37,5
+village_diplomacy=-745/72/1509,5
+village_diplomacy=-1670/72/-984,5
+village_diplomacy=-544/68/121,5
+village_diplomacy=-244/69/950,5
+village_diplomacy=74/67/849,5
+village_diplomacy=240/70/268,5
+village_diplomacy=-1263/67/-177,5

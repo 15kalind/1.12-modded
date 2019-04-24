@@ -1,0 +1,82 @@
+name=Qila
+icon=steelsword
+weight=10
+carriesraid=true
+
+//Vanilla biomes
+biome=Desert
+biome=Desert M
+biome=Mesa
+biome=Mesa M
+biome=Mesa Plateau
+biome=Mesa Plateau M
+biome=Mesa Plateau F
+biome=Mesa Plateau F M
+biome=JungleEdge
+biome=Savanna
+biome=Savanna M
+biome=Savanna Plateau
+
+//biomes o'plenty
+biome=lush desert
+biome=lush swamp
+biome=outback
+biome=shrubland
+biome=rainforest
+biome=xeric shrubland
+
+//Traverse biomes
+biome=Arid Highland
+biome=Mountainous Desert
+biome=Rocky Plateau
+biome=Red Desert
+biome=Desert Shrubland
+biome= Badlands
+
+pathmaterial=pathdirt
+pathmaterial=pathsandstone
+
+//starting buildings=
+centre=fort
+start=largepeasanthouse
+start=peasanthouse
+start=lumbermanhouse
+start=quarry
+start=grove
+start=brickkiln
+start=inn
+
+player=playersmallfield
+player=playersmallhouse
+player=playerlargefield
+player=playerhugefield
+player=playerestate
+player=gifthouse
+
+//to be built in priority
+core=quarry
+core=paddy
+core=grove
+core=soldierhouse
+core=forge
+core=hindushrine
+
+//to be built after the core ones
+secondary=spicegarden
+secondary=peasanthouse
+secondary=quarry
+secondary=villagetree
+secondary=soldierhouse
+secondary=brickkiln
+secondary=archives
+secondary=bazaar
+secondary=villagetemple
+
+//never for this type of village
+never=sugarplantation
+
+//Selling prices=
+sellingPrice=sugarcane,20
+
+//Buying prices=
+buyingPrice=sugarcane,18

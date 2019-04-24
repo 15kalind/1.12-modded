@@ -1,0 +1,10 @@
+0;Nieznajomy;Handlujemy z obcymi, co nie znaczy że im ufamy.
+4*64;Znajoma twarz;Ostatnio jesteś częstym gościem na naszych ziemiach.
+16*64;Częsty gość;Xaire, $name! Miło Cię widzieć. Jak się sprawy mają?
+64*64;Ulubiony kupiec;Wszyscy cieszymy się, że przybyłeś. Przybyłeś z nami pohandlować?
+2*64*64;Przyjaciel wioski;Jesteś częścią naszej wioski $name, ufamy Ci!
+8*64*64;Jeden z nas;Jesteś teraz jednym z nas $name. Może nie urodziłeś się tutaj, ale od teraz możesz dumnie nosić miano Rzymianina.
+32*64*64;Prawdziwy przywódca;$name, Zyskałeś zaufanie i szacunek Bizantyjczyków. Podążymy za Tobą wszędzie.
+-64;Utrapieniec;Nie jesteś tu mile widziany, $name. Ostrzegam cię.
+-4*64;Niepożądany obcy;Gościmy kupców, ale nie ludzi twojego pokroju. Strzeż się.
+-16*64;Wróg publiczny numer jeden;Pozostawienie cię przy życiu byłoby hańbą dla całego Imperium Rzymskiego. Dobrze ci radzę, jeśli chcesz pozostać przy życiu, opuść tę krainę.

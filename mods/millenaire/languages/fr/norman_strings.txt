@@ -1,0 +1,113 @@
+//* Name of the villager types
+//* Empty for the Normans in French since the original are already in French
+
+culture.norman=Normande
+culture.fullname=Les normands
+
+village.agricole=
+village.artisans=
+village.bourg_autonome=
+village.controlled=village contrôlé
+village.customcontrolled=village contrôlé perso
+village.ecclesiastique=
+village.militaire=
+village.grosbourg=
+village.hameau_abbatiale=
+village.hameau_agricole=
+village.hameau_artisans=
+village.notredame=cathédrale
+
+
+villager.abbot=
+villager.carpenter=
+villager.cattleFarmerMale=
+villager.cattleFarmerFemale=
+villager.boy=
+villager.girl=
+villager.teenagerMale=
+villager.teenagerFemale=
+villager.farmer=
+villager.merchant_viking=
+villager.merchant_weapon=
+villager.merchant_plant=
+villager.merchant_art=
+villager.merchant_wool=
+villager.merchant_food=
+villager.guard=
+villager.guildmaster=
+villager.knight=
+villager.lady=
+villager.lumberman=
+villager.merchant=
+villager.miner=
+villager.monk=
+villager.priest=
+villager.seneschal=
+villager.smith=
+villager.wife=
+
+villager.innkeeperfemale=
+villager.innkeepermale=
+villager.lonemiller=
+villager.merchant_weapons=
+villager.robberbaron=
+villager.robberleader=
+
+villager.lonelumberman=
+villager.lonelumbermantaiga=
+villager.loneminer=
+villager.lonemonk=
+villager.loneabbot=
+villager.alchemist=
+villager.alchemistassistant=
+villager.alchemistapprentice=
+villager.bandit=
+villager.armoredbandit=
+villager.felonbaron=
+villager.felonsoldier=
+
+villager.pigherd=
+villager.pigherdf=
+villager.shepherd=
+villager.shepherdf=
+
+villager.glassblower=
+villager.herbalist=
+villager.weaver=
+villager.ciderproducer=
+
+villager.architect=
+villager.marvelbuilder=
+villager.pilgrim=
+villager.pilgrimfemale=
+
+villager.bishop=
+villager.host=
+villager.hostess=
+villager.marvelpriest=
+villager.orderguard=
+villager.ordervicar=
+villager.vicar=
+
+
+shop.townhall=Magasin central
+shop.forge=Outils
+shop.armoury=Armes & armures
+shop.bakery=Pain
+shop.cattlefarm=Produits bovins
+shop.pigfarm=Produits porcins
+shop.sheepchickenfarm=Volaille
+shop.tavern=Alcool
+shop.orchard=Pommes à cidre
+shop.lonemine=Minerais
+shop.alchemyworkshop=Produits alchimiques
+shop.lonelumberman=Bois et pommes
+shop.lonemill=Pain
+shop.loneinn=Nourriture et boissons
+shop.lonelumbermantaiga=Bois
+shop.loneabbey=Produits de l'abbaye
+shop.glassblower=Verrerie
+shop.weaver=Tapis
+shop.notredame=Entrepôt
+shop.glassblower=Vitraux & pigments
+shop.weaver=Tapis & pigments

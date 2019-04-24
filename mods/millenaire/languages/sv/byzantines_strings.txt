@@ -1,0 +1,57 @@
+﻿culture.byzantines=Bysantinsk
+
+villager.teenagerMale=Ungdom
+villager.teenagerFemale=Ungdom
+villager.boy_byzantine=Pojke
+villager.girl_byzantine=Flicka
+villager.farmiller_byzantine=Mjölnare
+villager.farmiller_wife_byzantine=Mjölnarens fru
+villager.wife_byzantine=Fru
+villager.miner_byzantine=Gruvarbetare
+villager.artisan_byzantine=Hantverkare
+villager.patriarch_byzantine=Patriark
+villager.lumberman_byzantine=Skogshuggare
+villager.shepherd_byzantine=Fåraherde
+villager.shepherd_female_byzantine=Fåraherde
+villager.fisherman_byzantine=Fiskare
+villager.baron_byzantine=Baron
+villager.richwife_byzantine=Rik kvinna
+villager.merchant_norman=Normansk köpman
+villager.merchant_hindi=Indisk köpman
+villager.merchant_mayan=Maya köpman
+villager.merchant_japanese=Japansk köpman
+villager.centurio_byzantine=Centurio
+villager.soldier_byzantine=Soldat
+villager.playersoldier_byzantine=Soldat
+villager.smith_byzantine=Smed
+villager.merchant_byzantine=Köpman
+villager.pastor_byzantine=Pastor
+villager.artwife_byzantine=Hantverkarens fru
+villager.architect_byzantine=Arkitekt
+villager.silkfarmer_byzantine=Siden vävare
+villager.silkfarmerwife_byzantine=Silkes vävare
+villager.armysmith_byzantine=Vapensmed
+
+villager.smuggler_silk=Siden köpman
+villager.merchant_art=Konsthandlare
+villager.merchant_food=Mat försäljare
+villager.merchant_materials=Material försäljare
+
+villager.keeperOak_byzantine=Vakt
+villager.keeperBirch_byzantine=Vakt
+villager.keeperTropical_byzantine=Vakt
+villager.keeperPine_byzantine=Vakt
+villager.loneshepherd_byzantine=Fåraherde
+villager.loneshepherdf_byzantine=Fåraherde
+villager.keeper_byzantine=Fyrvaktare
+
+shop.townhall=Central Affär
+shop.forge=Verktyg
+shop.armyforge=Verktyg,vapen och rustning
+shop.lonetower=Mat
+shop.tavernbyz=Vin
+shop.lonesheep=Ull
+shop.bakery=Bageri
+shop.fishery=Fisk
+shop.sheepfarm=Lamm,läder och feta
+shop.clothing=Kläder

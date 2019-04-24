@@ -1,0 +1,24 @@
+//Parameters for the building as a whole
+building.length=26
+building.width=36
+building.areatoclear=5
+building.buildingorientation=3
+building.issubbuilding=true
+building.parentbuildingplan=fort_A5
+building.max=0
+building.icon=steelchest
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Qila Ka Bhati
+initial.priority=800
+initial.male=indian_armysmith
+initial.female=indian_peasantwife
+initial.prioritymovein=15
+initial.tag=armoury
+initial.shop=armyforge
+
+//Parameters for specific upgrades
+upgrade1.priority=80
+

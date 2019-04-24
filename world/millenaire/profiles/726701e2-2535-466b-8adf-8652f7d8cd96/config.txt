@@ -1,0 +1,3 @@
+player_name=vancort
+donation_mode=false
+village_diplomacy=240/70/268,5

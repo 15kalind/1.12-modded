@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "monk:monk_level",
+      "nbt": "{\"icon\":\"monk:icon/creeper\"}"
+    },
+    "title": {
+      "translate": "monk.advancements.level",
+      "with": [
+        "14"
+      ]
+    },
+    "description": {
+      "translate": "monk.advancements.requirement.kiss_creeper"
+    },
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "monk:level_13",
+  "criteria": {
+    "level": {
+      "trigger": "monk:levelup",
+      "conditions": {
+        "level": 14
+      }
+    }
+  }
+}

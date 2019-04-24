@@ -1,0 +1,73 @@
+﻿quarrybyzantine_A0=Kamieniołom
+grovebyzantine_A0=Zagajnik
+testfarm_A0=Farma
+testfarm_A_backerei_A0=Młyn
+churchbyzantine_A0=Skrzydło kościelne
+churchbyzantine_A9=Cerkiew
+churchbyzantine_A_altar_A0=Ołtarz
+artisanbyzantine_A0=Dom rzemieślniczy
+workshopbyzantine_A0=Warsztat
+ancienttemplebyzantine_A0=Starożytna świątynia
+ancienttheatrebyzantine_A0=Antyczny teatr
+bakerybyzantine_A0=Piekarnia
+placebyzantine_A0=Świetlica
+fortbyzantine_A0=Fort
+forgebyzantine_A0=Kuźnia
+villa urbana_A0=Willa
+tavernbyzantine_A0=Tawerna
+bakerybyzantine_A0=Piekarnia
+fisherbyzantine_A0=Chata rybaka
+lumberbyzantine_A0=Chata drwala
+watchtowerbyzantine_A0=Wieża strażnicza
+chapelbyzantine_A0=Kaplica
+farmbyzantine_A0=Farma
+sheepbyzantine_A0=Pastwisko dla owiec
+playerfortbyzantine_A0=Fort
+innbyzantine_A0=Gospoda
+guesthousebyzantine_A0=Domek gościnny
+basilkabyzantine_A0=Hala targowa
+barracksbyzantine_A0=Koszary
+barracksbyzantine_A_bed_A0=Sypialnia w koszarach
+presbyterybyzantine_A0=Prezbiterium
+fortbyzantine_A_forge_A0=Kuźnia
+playerfortbyzantine_A_forge_A0=Kuźnia
+well_A0=Studnia
+
+oaktower_A0=Wieża strażnicza
+birchtower_A0=Wieża strażnicza
+pinetower_A0=Wieża strażnicza
+jungletower_A0=Wieża strażnicza
+
+placebyzantine_a_basilica_a0=Forum
+vineyardbyzantine_a0=Winnica
+grovebirchbyzantine_a0=Brzozowy zagajnik
+silkfarmbyzantine_a0=Farma jedwabiu
+playerfortbyzantine_a_bed3_a0=Fortowa sypialnia
+fortbyzantine_a_bed3_a0=Fortowa sypialnia
+playerfortbyzantine_a_bed2_a0=Fortowa sypialnia
+fortbyzantine_a_bed1_a0=Fortowa sypialnia
+playerfortbyzantine_a_bed1_a0=Fortowa sypialnia
+fortbyzantine_a_bed2_a0=Fortowa sypialnia
+lighthouse_a0=Latarnia morska
+architectbyzantine_a0=Architect's Studio
+lonecastle_a_living_a0=Lone Fort Bedroom
+lonecastle_a0=Lone Fort
+lonesheepfarm_a0=Pastwisko dla owiec na odludziu
+lonesheepfarm_b0=Pastwisko dla owiec na odludziu
+groveoakbyzantine_a0=Dębowy zagajnik
+
+lonecastle_a_training_a0=Plac ćwiczebny
+lonecastle_a_praying_a0=Kapliczka
+
+gifthouse_a0=Prezent
+playersmallhouse_a0=Mały dom
+
+
+crossbyzantine_a0=Przydrożny krzyż
+parkbyzantine_a0=Brzoza
+parkbyzantine_b0=Dąb
+parkbyzantine_c0=Dąb
+parkbyzantine_d0=Park
+shrinebyzantine_a0=Kaplica
+wellbyzantine_a0=Studnia
+wellbyzantine_b0=Studnia

@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "monk:monk_level",
+      "nbt": "{\"icon\":\"monk:icon/sunrise\"}"
+    },
+    "title": {
+      "translate": "monk.advancements.level",
+      "with": [
+        "2"
+      ]
+    },
+    "description": {
+      "translate": "monk.advancements.requirement.mediate_sunrise",
+      "with": [
+        "200"
+      ]
+    },
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "monk:level_1",
+  "criteria": {
+    "level": {
+      "trigger": "monk:levelup",
+      "conditions": {
+        "level": 2
+      }
+    }
+  }
+}

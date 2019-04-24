@@ -1,0 +1,62 @@
+#From 1.12 onward, block and item names must be in lang files
+#packaged within the jar.
+#A copy is provided in millenaire/languages for the translators' convenience,
+#but will not be used by Minecraft. It will however be copied within the jar
+#when a new Millénaire version is packaged.
+
+#The Translation Gaps calculator however does use the versions in the
+#millenaire/language folder, so you can check your progress without
+#copying it in the jar
+
+
+#Item names
+tile.millenaire.locked_chest.name=Budynek
+item.millenaire.normanpickaxe.name=Kilof Normanow
+item.millenaire.normanaxe.name=Topor Normanow
+item.millenaire.normanshovel.name=lopata Normanow
+item.millenaire.normanhoe.name=Motyka Normanow
+item.millenaire.normanbroadsword.name=Dlugi miecz Normanow
+item.millenaire.normanhelmet.name=Helm Normanow
+item.millenaire.normanplate.name=Zbroja plytowa Normanow
+item.millenaire.normanlegs.name=Nogawice Normanow
+item.millenaire.normanboots.name=Buty Normanow
+item.millenaire.rice.name=Ryz
+item.millenaire.turmeric.name=Kurkuma
+item.millenaire.vegcurry.name=Curry wegetarianskie
+item.millenaire.chickenmeat.name=Surowy kurczak
+item.millenaire.chickencurry.name=Curry drobiowe
+item.millenaire.brickmould.name=Paleta cegiel
+item.millenaire.rasgulla.name=Rasgulla
+tile.millenaire.timberframeplain.name=Prosta rama drewniana
+tile.millenaire.timberframecross.name=Krzyzowa rama drewniana
+tile.millenaire.wetbrick0.name=Mokra cegla
+tile.millenaire.cookedbrick.name=Wypalona cegla
+tile.millenaire.mudbrick.name=Gliniana cegla
+item.millenaire.indianstatue.name=Hinduski posag
+item.millenaire.ciderapple.name=Jablko
+item.millenaire.cider.name=Jablecznik
+item.millenaire.summoningwand.name=Rozdzka przywolania
+item.millenaire.parchment_normanvillagers.name=Normanscy wiesniacy
+item.millenaire.parchment_normanitems.name=Normanskie przednioty
+item.millenaire.parchment_normanbuildings.name=Normanskie budynki
+item.millenaire.parchment_normanfull.name=Kompletny zwoj Normanow
+item.millenaire.tapestry.name=Normandzki gobelin
+item.millenaire.raven_amulet.name=Amulet Kruka
+item.millenaire.dwarves_amulet.name=Amulet Krasnoluda
+item.millenaire.yggdrasil_amulet.name=Amulet Yddrasil
+item.millenaire.skoll_hati_amulet.name=Amulet Sk�ll i Hati
+item.millenaire.parchment_villagescroll.name=Zwoj wioski
+item.millenaire.parchment_indianvillagers.name=Hinduscy wiesniacy
+item.millenaire.parchment_indianitems.name=Hinduskie przedmioty
+item.millenaire.parchment_indianbuildings.name=Hinduskie budynki
+item.millenaire.parchment_indianfull.name=Kompletny zwoj Hindusow
+
+item.millenaire.wah.name=Wah
+item.millenaire.masa.name=Masa
+item.millenaire.maize.name=Kukurydza
+tile.millenaire.mayangoldblock.name=Zloty Ornament
+item.millenaire.mayanstatue.name=Rzezba Majow
+item.millenaire.parchment_mayanvillagers.name=Wiesniacy Majow
+item.millenaire.parchment_mayanitems.name=Przedmioty Majow
+item.millenaire.parchment_mayanbuildings.name=Budynki Majow
+item.millenaire.parchment_mayanfull.name=Kompletny zwoj Majow

@@ -1,0 +1,62 @@
+{
+  "display": {
+    "icon": {
+      "item": "monk:monk_level",
+      "nbt": "{\"icon\":\"monk:icon/rewards\"}"
+    },
+    "title": {
+      "translate": "monk.advancements.reward",
+      "with": [
+        "3"
+      ]
+    },
+    "description": {
+      "color": "aqua",
+      "extra": [
+        {
+          "color": "reset",
+          "extra": [
+            {
+              "translate": "monk.advancements.ability.water_breathing_partial.desc"
+            }
+          ],
+          "text": ": "
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "color": "aqua",
+          "extra": [
+            {
+              "color": "reset",
+              "extra": [
+                {
+                  "translate": "monk.advancements.ability.armor.desc",
+                  "with": [
+                    "200%"
+                  ]
+                }
+              ],
+              "text": ": "
+            }
+          ],
+          "translate": "monk.advancements.ability.armor"
+        }
+      ],
+      "translate": "monk.advancements.ability.water_breathing_partial"
+    },
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "parent": "monk:level_2",
+  "criteria": {
+    "level": {
+      "trigger": "monk:levelup",
+      "conditions": {
+        "level": 3
+      }
+    }
+  }
+}

@@ -1,0 +1,54 @@
+playerestate_A0=Mansion
+forge_A0=Kuźnia
+armyforge_A0=Kuźnia Armii
+scultorhouse_A0=Dom Rzeźbiarza
+archives_A0=Świątynne Archiwa
+chiefhouse_A0=Dom Przywódcy
+chiefhouse_B0=Dom Przywódcy
+fort_A0=Fort
+fort_A_forge_A0=Fortowa Kuźnia
+fort_A_soldierhouse_A0=Koszary
+peasanthouse_A0=Dom Wieśniaka
+peasanthouse_B0=Dom Wieśniaka
+peasanthouse_C0=Dom Wieśniaka
+pandithouse_a0=Dom Mędrca
+lumbermanhouse_A0=Dom Drwala
+quarry_A0=Kamieniołom
+quarry_B0=Kamieniołom
+soldierhouse_A0=Dom Żołnierza
+brickkiln_A0=Piec ceglarski
+grove_A0=Zagajnik
+paddy_A0=Ryż niełuskany
+spicegarden_A0=Ogród z przyprawami
+sugarplantation_A0=Plantacja trzciny cukrowej
+villagetemple_A0=Wioskowa Świątynia
+palace_A0=Pałac
+guesthouse_A0=Dom Gościnny
+inn_A0=Gospoda
+largepeasanthouse_A0=Duży dom
+largepeasanthouse_A_secondary_A0=Drugi dom
+playerpalace_A0=Pałac Gracza
+playerhugefield_A0=Bardzo duże pole
+playerlargefield_A0=Duże pole
+playersmallfield_A0=Małe pole
+playersmallhouse_A0=Mały dom
+bazaar_A0=
+tank_A0=Baudi
+
+//extra buildings:
+well_A0=Studnia
+
+//lone buildings:
+adivasifarm_A0=Farma Adivasów
+adivasifarm_B0=Farma Adivasów
+deserttradeoutpost_A0=Pustynne stoisko handlowe
+ruinedfort_A0=Zrujnowany fort
+sandblasted_A0=Porzucone stoisko handlowe
+indiandesertedfarm_A0=Zniszczona indyjska farma
+loneshrine_A0=Hindu Shrine
+sadhutree_A0=Drzewo hinduskiego ascety
+
+gifthouse_a0=Prezent
+
+villagetree_a0=Wioskowe drzewo
+hindushrine_a0=Hinduska statua

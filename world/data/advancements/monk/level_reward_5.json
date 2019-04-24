@@ -1,0 +1,62 @@
+{
+  "display": {
+    "icon": {
+      "item": "monk:monk_level",
+      "nbt": "{\"icon\":\"monk:icon/rewards\"}"
+    },
+    "title": {
+      "translate": "monk.advancements.reward",
+      "with": [
+        "5"
+      ]
+    },
+    "description": {
+      "color": "aqua",
+      "extra": [
+        {
+          "color": "reset",
+          "extra": [
+            {
+              "translate": "monk.advancements.ability.tame_animals.desc"
+            }
+          ],
+          "text": ": "
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "color": "aqua",
+          "extra": [
+            {
+              "color": "reset",
+              "extra": [
+                {
+                  "translate": "monk.advancements.ability.armor.desc",
+                  "with": [
+                    "400%"
+                  ]
+                }
+              ],
+              "text": ": "
+            }
+          ],
+          "translate": "monk.advancements.ability.armor"
+        }
+      ],
+      "translate": "monk.advancements.ability.tame_animals"
+    },
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "parent": "monk:level_4",
+  "criteria": {
+    "level": {
+      "trigger": "monk:levelup",
+      "conditions": {
+        "level": 5
+      }
+    }
+  }
+}

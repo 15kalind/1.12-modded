@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "monk:monk_level",
+      "nbt": "{\"icon\":\"monk:icon/enderman\"}"
+    },
+    "title": {
+      "translate": "monk.advancements.level",
+      "with": [
+        "11"
+      ]
+    },
+    "description": {
+      "translate": "monk.advancements.requirement.meditate_endermen",
+      "with": [
+        "600"
+      ]
+    },
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "monk:level_10",
+  "criteria": {
+    "level": {
+      "trigger": "monk:levelup",
+      "conditions": {
+        "level": 11
+      }
+    }
+  }
+}

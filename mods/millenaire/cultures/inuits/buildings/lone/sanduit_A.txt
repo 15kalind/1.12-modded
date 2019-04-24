@@ -1,0 +1,22 @@
+native:autsituqpuq;name_en:Warm weather Inuit;
+
+weight:10
+startLevel:-1;
+orientation:3;
+building.length=13
+building.width=14
+building.icon=sand
+
+//1.7 biomes
+biome:Beach
+biome:Desert
+
+initial.male=inuit_sanduithusband
+initial.female=inuit_sanduitwife
+initial.male=inuit_sanduitson
+initial.female=inuit_sanduitdaughter
+
+//starting buildings:
+centre:sanduit
+
+initial.priority=9

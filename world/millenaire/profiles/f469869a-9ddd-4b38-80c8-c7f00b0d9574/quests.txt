@@ -1,0 +1,3 @@
+quest:mayanlumbermanaxe;step:0;startTime:1562000;currentStepStartTime:1562000;villager:startvillager,1749690452857149574,240/70/268
+quest:lumbermanwine;step:0;startTime:1562000;currentStepStartTime:1562000;villager:startvillager,4695938982602138979,240/70/268
+quest:lumbermanwine;step:0;startTime:1566000;currentStepStartTime:1566000;villager:startvillager,3989645978007881718,240/70/268

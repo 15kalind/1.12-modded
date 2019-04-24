@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "monk:monk_level",
+      "nbt": "{\"icon\":\"monk:icon/water\"}"
+    },
+    "title": {
+      "translate": "monk.advancements.level",
+      "with": [
+        "10"
+      ]
+    },
+    "description": {
+      "translate": "monk.advancements.requirement.meditate_water_moon",
+      "with": [
+        "200"
+      ]
+    },
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "monk:level_9",
+  "criteria": {
+    "level": {
+      "trigger": "monk:levelup",
+      "conditions": {
+        "level": 10
+      }
+    }
+  }
+}

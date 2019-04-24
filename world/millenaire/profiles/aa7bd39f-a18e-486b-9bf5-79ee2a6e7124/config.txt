@@ -1,0 +1,16 @@
+player_name=FrostShot11
+donation_mode=false
+village_diplomacy=-1470/70/-1022,5
+village_diplomacy=-46/74/1010,5
+village_diplomacy=-2216/74/-806,5
+village_diplomacy=-560/73/1430,5
+village_diplomacy=-542/72/1610,5
+village_diplomacy=-2382/75/-926,5
+village_diplomacy=-2574/68/-1022,5
+village_diplomacy=-1670/72/-984,5
+village_diplomacy=-745/72/1509,5
+village_diplomacy=-544/68/121,5
+village_diplomacy=-244/69/950,5
+village_diplomacy=-1393/68/-1196,5
+village_diplomacy=240/70/268,5
+village_diplomacy=-2402/74/-736,5

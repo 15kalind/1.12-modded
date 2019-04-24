@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "monk:monk_level",
+      "nbt": "{\"icon\":\"monk:icon/love\"}"
+    },
+    "title": {
+      "translate": "monk.advancements.level",
+      "with": [
+        "5"
+      ]
+    },
+    "description": {
+      "translate": "monk.advancements.requirement.pet",
+      "with": [
+        "20"
+      ]
+    },
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "monk:level_4",
+  "criteria": {
+    "level": {
+      "trigger": "monk:levelup",
+      "conditions": {
+        "level": 5
+      }
+    }
+  }
+}

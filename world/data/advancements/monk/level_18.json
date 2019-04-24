@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "monk:monk_level",
+      "nbt": "{\"icon\":\"monk:icon/blind_eye\"}"
+    },
+    "title": {
+      "translate": "monk.advancements.level",
+      "with": [
+        "18"
+      ]
+    },
+    "description": {
+      "translate": "monk.advancements.requirement.kill_blind",
+      "with": [
+        "5"
+      ]
+    },
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "monk:level_17",
+  "criteria": {
+    "level": {
+      "trigger": "monk:levelup",
+      "conditions": {
+        "level": 18
+      }
+    }
+  }
+}

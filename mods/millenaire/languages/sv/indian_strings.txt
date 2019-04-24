@@ -1,0 +1,35 @@
+﻿culture.indian=Indisk
+
+villager.indian_boy=Pojke
+villager.indian_girl=Flicka
+villager.indian_teenagerMale=Ungdom
+villager.indian_teenagerFemale=Ungdom
+villager.indian_lumberman=Skogshuggare
+villager.indian_miner=Gruvarbetare
+villager.indian_pandit=Präst
+villager.indian_peasant=Bybo
+villager.indian_peasantwife=Kvinnlig bybo
+villager.indian_rajputgeneral=Rajput General 
+villager.indian_richwoman=Rik kvinna
+villager.indian_soldier=Rajput Soldat
+villager.indian_villagechief=Byns hövding
+villager.indian_smith=Smed
+villager.indian_armysmith=Armésmed
+villager.indian_sculptor=Sten huggare
+villager.indian_panditayin=Prästens fru
+villager.indian_raja=
+villager.indian_rani=
+villager.indian_merchant=Köpman
+villager.indian_lonetrader=Ensam köpman
+villager.indian_adivasipeasant=Adivasi bybo
+villager.indian_adivasipeasantwife=Adivasi bybo
+villager.indian_sadhu=
+villager.merchant_oriental=Persisk köpman
+villager.merchant_adivasi=Adivasi köpman
+villager.merchant_villagewoman=Byns köpman
+
+shop.townhall=Central affär
+shop.forge=Verktyg
+shop.armyforge=Rustning & vapen
+shop.adivasifarm=Adivasi produkter
+shop.deserttradeoutpost=Värdefulla handelsvaror

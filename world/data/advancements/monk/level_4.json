@@ -1,0 +1,50 @@
+{
+  "display": {
+    "icon": {
+      "item": "monk:monk_level",
+      "nbt": "{\"icon\":\"monk:icon/silverfish\"}"
+    },
+    "title": {
+      "translate": "monk.advancements.level",
+      "with": [
+        "4"
+      ]
+    },
+    "description": {
+      "translate": "monk.advancements.requirement.break_block",
+      "with": [
+        "5",
+        {
+          "color": "white",
+          "hoverEvent": {
+            "action": "show_item",
+            "value": {
+              "text": "{id:\"minecraft:stone\",Count:1b,Damage:0s}"
+            }
+          },
+          "extra": [
+            {
+              "text": "Stone"
+            },
+            {
+              "text": "]"
+            }
+          ],
+          "text": "["
+        }
+      ]
+    },
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "monk:level_3",
+  "criteria": {
+    "level": {
+      "trigger": "monk:levelup",
+      "conditions": {
+        "level": 4
+      }
+    }
+  }
+}

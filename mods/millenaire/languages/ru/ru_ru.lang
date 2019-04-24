@@ -1,0 +1,196 @@
+#From 1.12 onward, block and item names must be in lang files
+#packaged within the jar.
+#A copy is provided in millenaire/languages for the translators' convenience,
+#but will not be used by Minecraft. It will however be copied within the jar
+#when a new Millénaire version is packaged.
+
+#The Translation Gaps calculator however does use the versions in the
+#millenaire/language folder, so you can check your progress without
+#copying it in the jar
+
+
+#Item names
+
+#The following items should not be translated
+#They are either proper names (the deniers)
+#or specific local specialities that aren't translated
+#in other languages
+#I'm putting them for non-Latin alphabet languages,
+#so they can be written in other alphabets
+item.millenaire.denier.name=Бронзовый денье
+item.millenaire.denieror.name=Золотой денье
+item.millenaire.denierargent.name=Серебряный денье
+item.millenaire.calva.name=Кальва
+item.millenaire.tripes.name=Рубец
+item.millenaire.boudin.name=Кровяные колбаски
+
+tile.millenaire.dirtwall.name=Саманная стена
+
+tile.millenaire.locked_chest.name=Закрытый сундук
+item.millenaire.normanpickaxe.name=Нормандская кирка
+item.millenaire.normanaxe.name=Нормандский топор
+item.millenaire.normanshovel.name=Нормандская лопата
+item.millenaire.normanhoe.name=Нормандская мотыга
+item.millenaire.normanbroadsword.name=Нормандский палаш
+item.millenaire.normanhelmet.name=Нормандский шлем
+item.millenaire.normanplate.name=Нормандская кираса
+item.millenaire.normanlegs.name=Нормандские поножи
+item.millenaire.normanboots.name=Нормандские ботинки
+item.millenaire.rice.name=Рис
+item.millenaire.turmeric.name=Куркума
+item.millenaire.vegcurry.name=Вегетарианский карри
+item.millenaire.chickenmeat.name=Сырая курица
+item.millenaire.chickencurry.name=Мургх карри
+item.millenaire.brickmould.name=Кирпичная форма
+item.millenaire.rasgulla.name=Разгулла
+tile.millenaire.timberframeplain.name=Ровный каркас
+tile.millenaire.timberframecross.name=Перекрещенный каркас
+tile.millenaire.wetbrick0.name=Сырой кирпич
+tile.millenaire.cookedbrick.name=Обоженный кирпич
+tile.millenaire.mudbrick.name=Саманный кирпич
+item.millenaire.indianstatue.name=Статуя хинди
+item.millenaire.ciderapple.name=Яблоко для сидра
+item.millenaire.cider.name=Сидр
+item.millenaire.summoningwand.name=Жезл Создания
+item.millenaire.negationwand.name=Жезл Разрушения
+item.millenaire.parchment_normanvillagers.name=Нормандские поселенцы
+item.millenaire.parchment_normanitems.name=Нормандские предметы
+item.millenaire.parchment_normanbuildings.name=Нормандские здания
+item.millenaire.parchment_normanfull.name=Полный свиток Нормандии
+item.millenaire.tapestry.name=Нормандский гобелен
+item.millenaire.vishnu_amulet.name=Амулет Вишну
+item.millenaire.alchemist_amulet.name=Амулет алхимика
+item.millenaire.yggdrasil_amulet.name=Амулет Иггдрасиль
+item.millenaire.skoll_hati_amulet.name=Амулет Скйолла и Хати
+item.millenaire.parchment_villagescroll.name=Свиток поселения
+item.millenaire.parchment_indianvillagers.name=Поселенцы хинди
+item.millenaire.parchment_indianitems.name=Предметы хинди
+item.millenaire.parchment_indianbuildings.name=Здания хинди
+item.millenaire.parchment_indianfull.name=Полный свиток хинди
+item.millenaire.unknownpowder.name=Неизвестный порошок
+tile.millenaire.alchemistexplosive.name=Взрывчатка алхимика
+
+item.millenaire.wah.name=Вах
+item.millenaire.masa.name=Маса
+item.millenaire.maize.name=Маис
+tile.millenaire.mayangoldblock.name=Золотой орнамент
+item.millenaire.mayanstatue.name=Резная работа майя
+item.millenaire.parchment_mayanvillagers.name=Поселенцы майя
+item.millenaire.parchment_mayanitems.name=Предметы майя
+item.millenaire.parchment_mayanbuildings.name=Здания майя
+item.millenaire.parchment_mayanfull.name=Полный свиток майя
+item.millenaire.mayanmace.name=Обсидиановая булава
+item.millenaire.mayanpickaxe.name=Обсидиановая кирка
+item.millenaire.mayanaxe.name=Обсидиановый топор
+item.millenaire.mayanshovel.name=Обсидиановая лопата
+item.millenaire.mayanhoe.name=Обсидиановая мотыга
+item.millenaire.obsidianflake.name=Обсидиановый осколок
+item.millenaire.cacauhaa.name=Какауха
+
+tile.millenaire.paper_wall.name=Бумажная стена
+item.millenaire.udon.name=Удон
+item.millenaire.thatched.name=Настил
+
+item.millenaire.parchment_sadhu.name=Свиток Садху
+
+item.millenaire.tachisword.name=Меч Тачи
+item.millenaire.yumibow.name=Лук Юми
+item.millenaire.sake.name=Сакэ
+
+item.millenaire.japanesebluelegs.name=Синие о-йорой поножи
+item.millenaire.japanesebluehelmet.name=Синий о-йорой шлем
+item.millenaire.japaneseblueplate.name=Синяя о-йорой кираса
+item.millenaire.japaneseblueboots.name=Синие о-йорой ботинки
+
+item.millenaire.japaneseredlegs.name=Красные о-йорой поножи
+item.millenaire.japaneseredhelmet.name=Красный о-йорой шлем
+item.millenaire.japaneseredplate.name=Красная о-йорой кираса
+item.millenaire.japaneseredboots.name=Красные о-йорой ботинки
+
+item.millenaire.japaneseguardlegs.name=Поножи кейко
+item.millenaire.japaneseguardhelmet.name=Шлем кейко
+item.millenaire.japaneseguardplate.name=Кираса кейко
+item.millenaire.japaneseguardboots.name=Ботинки кейко
+
+item.millenaire.parchment_japanesevillagers.name=Поселенцы Японии
+item.millenaire.parchment_japaneseitems.name=Предметы Японии
+item.millenaire.parchment_japanesebuildings.name=Здания Японии
+item.millenaire.parchment_japanesefull.name=Полный свиток Японии
+
+tile.millenaire.silkwormempty.name=Пустая шелковица
+tile.millenaire.silkwormfull.name=Шелковица с шелкопрядом
+tile.millenaire.byzantine_tiles.name=Греческая плитка
+tile.millenaire.byzantine_tiles_slab.name=Греческая плоская заготовка
+tile.millenaire.byzantine_stone_tiles.name=Греческий камень
+item.millenaire.grapes.name=Виноград
+item.millenaire.vine.name=Вино
+item.millenaire.winefancy.name=Вино сорта Malvasia
+item.millenaire.silk.name=Шелк
+item.millenaire.byzantineiconsmall.name=Маленькая Греческая икона
+item.millenaire.byzantineiconmedium.name=Средняя Греческая икона
+item.millenaire.byzantineiconlarge.name=Большая Греческая икона
+item.millenaire.byzantineboots.name=Греческие ботинки
+item.millenaire.byzantinelegs.name=Греческие поножи
+item.millenaire.byzantineplate.name=Греческая кираса
+item.millenaire.byzantinehelmet.name=Греческий шлем
+item.millenaire.byzantinemace.name=Греческая булава
+item.millenaire.lambraw.name=Сырая баранина
+item.millenaire.lambcooked.name=Жаренные бараньи отбивные
+item.millenaire.feta.name=Сыр Feta
+item.millenaire.winebasic.name=Винная заготовка
+item.millenaire.clothes_byz_wool.name=Шерстяная Греческая одежда
+item.millenaire.clothes_byz_silk.name=Шелковая Греческая одежда
+
+item.millenaire.souvlaki.name=Шашлычек на шпажке (Souvlaki)
+item.millenaire.purse.name=Мешочек с деньгами
+
+tile.millenaire.pathdirt.name=Путь из земли
+tile.millenaire.pathgravel.name=Путь из гравия
+tile.millenaire.pathslabs.name=Путь из плит
+tile.millenaire.pathsandstone.name=Путь из плит песчаника
+tile.millenaire.pathochretiles.name=Путь из охра плит
+tile.millenaire.pathgravelslabs.name=Путь из плит и гравия
+
+
+
+
+advancements.firstcontact.name=Millénaire
+advancements.firstcontact.desc=Встреть поселенца
+advancements.cresus.name=Крёз
+advancements.cresus.desc=Получи отрицательную репутацию
+advancements.summoningwand.name=Призывание
+advancements.summoningwand.desc=Купить Жезл призыва и создать с его помощью деревню
+advancements.villageleader.name=Первый парень на деревне
+advancements.villageleader.desc=Стань лидером и создай свое поселение
+advancements.thequest.name=Квест
+advancements.thequest.desc=Выполни квест, данный поселенцем
+advancements.maitreapenser.name=Гуру
+advancements.maitreapenser.desc=Встреть Садху или Алхимика
+advancements.forbiddenknwoledge.name=Забытые знания
+advancements.forbiddenknwoledge.desc=Выполни две главы Квеста создания
+advancements.puja.name=Маленький подарок Богов
+advancements.puja.desc=Заплати ученому мужу для представления Пуджи
+advancements.explorer.name=Исследователь
+advancements.explorer.desc=Исследуй одинокое здание
+advancements.marcopolo.name=Марко Поло
+advancements.marcopolo.desc=Посети поселения 3х различных культур в одном мире
+advancements.magellan.name=Фернанд Магеллан
+advancements.magellan.desc=Посети поселения всех культур в одном мире
+advancements.selfdefense.name=Самозащита
+advancements.selfdefense.desc=Убей бандита
+advancements.pantheon.name=Пантеон
+advancements.pantheon.desc=Посети таинственный Пантеон
+
+advancements.darkside.name=Темная сторона
+advancements.darkside.desc=Убей деревенщину
+advancements.scipio.name=Карфаген должен быть разрушен
+advancements.scipio.desc=Разрушь поселение Жезлом Отрицания
+advancements.attila.name=Аттила
+advancements.attila.desc=Получи репутацию Бича Божего в 3-х культурах
+
+advancements.cheers.name=Выпьем за MineCraft!
+advancements.cheers.desc=Выпей алкоголь из мода Millénaire
+advancements.hired.name=Помещик
+advancements.hired.desc=Найми работягу
+advancements.masterfarmer.name=Фермер 1ой категории
+advancements.masterfarmer.desc=Зароди культуру Millénaire

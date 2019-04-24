@@ -1,0 +1,50 @@
+{
+  "display": {
+    "icon": {
+      "item": "monk:monk_level",
+      "nbt": "{\"icon\":\"monk:icon/iron_golem\"}"
+    },
+    "title": {
+      "translate": "monk.advancements.level",
+      "with": [
+        "9"
+      ]
+    },
+    "description": {
+      "translate": "monk.advancements.requirement.break_block",
+      "with": [
+        "4",
+        {
+          "color": "white",
+          "hoverEvent": {
+            "action": "show_item",
+            "value": {
+              "text": "{id:\"minecraft:iron_block\",Count:1b,Damage:0s}"
+            }
+          },
+          "extra": [
+            {
+              "text": "Block of Iron"
+            },
+            {
+              "text": "]"
+            }
+          ],
+          "text": "["
+        }
+      ]
+    },
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "monk:level_8",
+  "criteria": {
+    "level": {
+      "trigger": "monk:levelup",
+      "conditions": {
+        "level": 9
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+villager:mayan_mayan_peasant
+villager:mayan_mayan_chieftain
+villager:mayan_mayan_richwoman
+villager:mayan_mayan_peasantwife
+village:mayan_agriculture
+village:mayan_religious
+village:norman_abandonedmill
+building:mayan_mayancacaofarm
+building:mayan_mayanobservatory
+building:mayan_mayanacropolis
+building:mayan_mayanhouse
+building:mayan_mayanlargepeasanthouse2
+building:norman_abandonedmill
+building:mayan_mayansheepchickenfarm

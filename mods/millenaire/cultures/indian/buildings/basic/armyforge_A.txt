@@ -1,0 +1,18 @@
+//Parameters for the building as a whole
+building.length=7
+building.width=8
+building.buildingorientation=3
+building.mindistance=0.5
+building.icon=steelchest
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Sena Ka Bhati
+initial.priority=800
+initial.male=indian_armysmith
+initial.female=indian_peasantwife
+initial.prioritymovein=15
+initial.tag=armoury
+initial.shop=armyforge
+

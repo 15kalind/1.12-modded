@@ -1,0 +1,37 @@
+//Parameters for the building as a whole
+building.length=22
+building.width=42
+building.areatoclear=5
+building.buildingorientation=3
+building.max=0
+building.icon=diamond
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Mahal
+initial.priority=600
+initial.tag=leasure
+initial.tag=playerth
+initial.shop=townhall
+initial.signs=5,0,3,1,2,4,6,8,7
+
+//Parameters for specific upgrades
+upgrade2.priority=580
+upgrade2.rebuildpath=true
+
+upgrade3.priority=560
+upgrade3.rebuildpath=false
+
+upgrade4.priority=540
+
+upgrade5.priority=520
+upgrade5.rebuildpath=true
+
+upgrade6.priority=500
+upgrade6.rebuildpath=false
+
+upgrade7.priority=480
+
+upgrade8.priority=460
+

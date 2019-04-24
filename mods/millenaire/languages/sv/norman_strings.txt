@@ -1,0 +1,73 @@
+﻿culture.norman=Normansk
+
+//Norman:
+villager.abbot=Abbot
+villager.carpenter=Snickare
+villager.cattleFarmerMale=Koskötare
+villager.cattleFarmerFemale=Koskötare
+villager.pigherd=Svinaherde
+villager.pigherdF=Svinaherde
+villager.shepherd=Fåraherde
+villager.shepherdF=Fåraherde
+villager.boy=Pojke
+villager.girl=Flicka
+villager.teenagerMale=Ungdom
+villager.teenagerFemale=Ungdom
+villager.farmer=Bonde
+villager.merchant_viking=Viking Köpman
+villager.merchant_weapon=Vapen Köpman
+villager.merchant_plant=Växt Köpman
+villager.merchant_art=Konst Köpman
+villager.merchant_wool=Textil Köpman
+villager.merchant_food=Mat Köpman
+villager.guard=Vakt
+villager.guildmaster=Gille Mästare
+villager.knight=Riddare
+villager.lady=Dam
+villager.lumberman=Skogshuggare
+villager.merchant=Köpman
+villager.miner=Gruvarbetare
+villager.monk=Munk
+villager.priest=Präst
+villager.seneschal=Fogde
+villager.smith=Smed
+villager.wife=By Kvinna
+
+villager.innkeeperfemale=Värdshusvärd
+villager.innkeepermale=Värdshusvärd
+villager.lonemiller=Mjölnare
+villager.merchant_weapons=Vapen Köpman
+villager.robberbaron=Bandit Ledare
+villager.robberleader=Bandit Ledare
+
+villager.lonelumberman=Skogshuggare
+villager.lonelumbermantaiga=Skogshuggare
+villager.loneminer=Gruvarbetare
+villager.lonemonk=Munk
+villager.loneabbot=Abbot
+villager.alchemist=Alkemist
+villager.alchemistassistant=Assistent Alkemist
+villager.alchemistapprentice=Lärlings Alkemist
+villager.bandit=Bandit
+villager.armoredbandit=Bandit
+villager.felonbaron=Bandit
+villager.felonsoldier=Bandit
+
+
+
+shop.townhall=Central Affär
+shop.forge=Verktyg
+shop.armoury=Rustning & Vapen
+shop.bakery=Bröd
+shop.cattlefarm=Kött Produkter
+shop.pigfarm=Kött Produkter
+shop.sheepchickenfarm=Kyckling Farm
+shop.tavern=Alkohol
+shop.lumberman=Cider Äpplen
+shop.lonemine=Sten
+shop.alchemyworkshop=Alkemi Produkter
+shop.lonelumberman=Trä och Äpplen
+shop.lonemill=Bröd
+shop.loneinn=Mat Och Dryck
+shop.lonelumbermantaiga=Trä
+shop.loneabbey=Produkter Från KLostret

@@ -1,0 +1,62 @@
+{
+  "display": {
+    "icon": {
+      "item": "monk:monk_level",
+      "nbt": "{\"icon\":\"monk:icon/rewards\"}"
+    },
+    "title": {
+      "translate": "monk.advancements.reward",
+      "with": [
+        "14"
+      ]
+    },
+    "description": {
+      "color": "aqua",
+      "extra": [
+        {
+          "color": "reset",
+          "extra": [
+            {
+              "translate": "monk.advancements.ability.kiss_creeper.desc"
+            }
+          ],
+          "text": ": "
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "color": "aqua",
+          "extra": [
+            {
+              "color": "reset",
+              "extra": [
+                {
+                  "translate": "monk.advancements.ability.explosion_resistance.desc",
+                  "with": [
+                    "50%"
+                  ]
+                }
+              ],
+              "text": ": "
+            }
+          ],
+          "translate": "monk.advancements.ability.explosion_resistance"
+        }
+      ],
+      "translate": "monk.advancements.ability.kiss_creeper"
+    },
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "parent": "monk:level_13",
+  "criteria": {
+    "level": {
+      "trigger": "monk:levelup",
+      "conditions": {
+        "level": 14
+      }
+    }
+  }
+}

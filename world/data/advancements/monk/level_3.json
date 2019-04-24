@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "monk:monk_level",
+      "nbt": "{\"icon\":\"monk:icon/squid\"}"
+    },
+    "title": {
+      "translate": "monk.advancements.level",
+      "with": [
+        "3"
+      ]
+    },
+    "description": {
+      "translate": "monk.advancements.requirement.drown",
+      "with": [
+        "280"
+      ]
+    },
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "monk:level_2",
+  "criteria": {
+    "level": {
+      "trigger": "monk:levelup",
+      "conditions": {
+        "level": 3
+      }
+    }
+  }
+}

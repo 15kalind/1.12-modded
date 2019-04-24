@@ -1,0 +1,10 @@
+0;Nieznajomy;Rzadko widujemy obcych w tych odległych stronach. 
+4*64;Znana twarz;Jak dotąd nie dopuściłeś się znieważenia naszych obyczajów.
+16*64;Częsty gość;Namaste, $name! Jakie wieści przynosisz?
+64*64;Ulubiony kupiec;Witamy z powrotem! Jakie towary przywiozłeś nam tym razem?
+2*64*64;Przyjaciel wioski;$name-ji, wszyscy tu uważamy Cię za prawdziwego przyjaciela!
+8*64*64;Jeden z nas;Nie myślałem, że kiedyś dożyję dnia w którym to zaakceptujemy obcego w naszej wiosce, ale Ty $name-ji jesteś teraz jednym z nas.
+32*64*64;Urodzony przywódca;$name-ji, zasłużyłeś na zaufanie i szacunek moich ludzi. Podążą za Tobą wszędzie.
+-64;Utrapieniec;Nie przepadamy za obcymi, szczególnie tymi twojego pokroju.
+-4*64;Niepożądany obcy;Ktokolwiek cię wychował chyba nie włożył w to zbyt wiele wysiłku. Mamy nadzieję, że wkrótce się stąd wyniesiesz...
+-16*64;Wróg publiczny numer jeden;Każdego ranka modlę się do Boga, aby już nie musiesz oglądać twojej paskudnej gęby.
